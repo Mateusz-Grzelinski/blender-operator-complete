@@ -1,0 +1,8238 @@
+[
+    {
+        "operator": "action.clean",
+        "source": null
+    },
+    {
+        "operator": "action.clickselect",
+        "source": null
+    },
+    {
+        "operator": "action.copy",
+        "source": null
+    },
+    {
+        "operator": "action.delete",
+        "source": null
+    },
+    {
+        "operator": "action.duplicate",
+        "source": null
+    },
+    {
+        "operator": "action.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "action.easing_type",
+        "source": null
+    },
+    {
+        "operator": "action.extrapolation_type",
+        "source": null
+    },
+    {
+        "operator": "action.frame_jump",
+        "source": null
+    },
+    {
+        "operator": "action.handle_type",
+        "source": null
+    },
+    {
+        "operator": "action.interpolation_type",
+        "source": null
+    },
+    {
+        "operator": "action.keyframe_insert",
+        "source": null
+    },
+    {
+        "operator": "action.keyframe_type",
+        "source": null
+    },
+    {
+        "operator": "action.layer_next",
+        "source": null
+    },
+    {
+        "operator": "action.layer_prev",
+        "source": null
+    },
+    {
+        "operator": "action.markers_make_local",
+        "source": null
+    },
+    {
+        "operator": "action.mirror",
+        "source": null
+    },
+    {
+        "operator": "action.new",
+        "source": null
+    },
+    {
+        "operator": "action.paste",
+        "source": null
+    },
+    {
+        "operator": "action.previewrange_set",
+        "source": null
+    },
+    {
+        "operator": "action.push_down",
+        "source": null
+    },
+    {
+        "operator": "action.sample",
+        "source": null
+    },
+    {
+        "operator": "action.select_all",
+        "source": null
+    },
+    {
+        "operator": "action.select_box",
+        "source": null
+    },
+    {
+        "operator": "action.select_circle",
+        "source": null
+    },
+    {
+        "operator": "action.select_column",
+        "source": null
+    },
+    {
+        "operator": "action.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "action.select_leftright",
+        "source": null
+    },
+    {
+        "operator": "action.select_less",
+        "source": null
+    },
+    {
+        "operator": "action.select_linked",
+        "source": null
+    },
+    {
+        "operator": "action.select_more",
+        "source": null
+    },
+    {
+        "operator": "action.snap",
+        "source": null
+    },
+    {
+        "operator": "action.stash",
+        "source": null
+    },
+    {
+        "operator": "action.stash_and_create",
+        "source": null
+    },
+    {
+        "operator": "action.unlink",
+        "source": null
+    },
+    {
+        "operator": "action.view_all",
+        "source": null
+    },
+    {
+        "operator": "action.view_frame",
+        "source": null
+    },
+    {
+        "operator": "action.view_selected",
+        "source": null
+    },
+    {
+        "operator": "anim.change_frame",
+        "source": null
+    },
+    {
+        "operator": "anim.channel_select_keys",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_clean_empty",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_click",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_collapse",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_delete",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_editable_toggle",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_expand",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_fcurves_enable",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_find",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_group",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_move",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_rename",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_select_all",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_select_box",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_setting_disable",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_setting_enable",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_setting_toggle",
+        "source": null
+    },
+    {
+        "operator": "anim.channels_ungroup",
+        "source": null
+    },
+    {
+        "operator": "anim.clear_useless_actions",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\anim.py"
+    },
+    {
+        "operator": "anim.copy_driver_button",
+        "source": null
+    },
+    {
+        "operator": "anim.driver_button_add",
+        "source": null
+    },
+    {
+        "operator": "anim.driver_button_edit",
+        "source": null
+    },
+    {
+        "operator": "anim.driver_button_remove",
+        "source": null
+    },
+    {
+        "operator": "anim.end_frame_set",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_clear_button",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_clear_v3d",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_delete",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_delete_button",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_delete_by_name",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_delete_v3d",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_insert",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_insert_button",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_insert_by_name",
+        "source": null
+    },
+    {
+        "operator": "anim.keyframe_insert_menu",
+        "source": null
+    },
+    {
+        "operator": "anim.keying_set_active_set",
+        "source": null
+    },
+    {
+        "operator": "anim.keying_set_add",
+        "source": null
+    },
+    {
+        "operator": "anim.keying_set_export",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\anim.py"
+    },
+    {
+        "operator": "anim.keying_set_path_add",
+        "source": null
+    },
+    {
+        "operator": "anim.keying_set_path_remove",
+        "source": null
+    },
+    {
+        "operator": "anim.keying_set_remove",
+        "source": null
+    },
+    {
+        "operator": "anim.keyingset_button_add",
+        "source": null
+    },
+    {
+        "operator": "anim.keyingset_button_remove",
+        "source": null
+    },
+    {
+        "operator": "anim.paste_driver_button",
+        "source": null
+    },
+    {
+        "operator": "anim.previewrange_clear",
+        "source": null
+    },
+    {
+        "operator": "anim.previewrange_set",
+        "source": null
+    },
+    {
+        "operator": "anim.start_frame_set",
+        "source": null
+    },
+    {
+        "operator": "anim.update_animated_transform_constraints",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\anim.py"
+    },
+    {
+        "operator": "armature.align",
+        "source": null
+    },
+    {
+        "operator": "armature.armature_layers",
+        "source": null
+    },
+    {
+        "operator": "armature.autoside_names",
+        "source": null
+    },
+    {
+        "operator": "armature.bone_layers",
+        "source": null
+    },
+    {
+        "operator": "armature.bone_primitive_add",
+        "source": null
+    },
+    {
+        "operator": "armature.calculate_roll",
+        "source": null
+    },
+    {
+        "operator": "armature.click_extrude",
+        "source": null
+    },
+    {
+        "operator": "armature.delete",
+        "source": null
+    },
+    {
+        "operator": "armature.dissolve",
+        "source": null
+    },
+    {
+        "operator": "armature.duplicate",
+        "source": null
+    },
+    {
+        "operator": "armature.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "armature.extrude",
+        "source": null
+    },
+    {
+        "operator": "armature.extrude_forked",
+        "source": null
+    },
+    {
+        "operator": "armature.extrude_move",
+        "source": null
+    },
+    {
+        "operator": "armature.fill",
+        "source": null
+    },
+    {
+        "operator": "armature.flip_names",
+        "source": null
+    },
+    {
+        "operator": "armature.hide",
+        "source": null
+    },
+    {
+        "operator": "armature.layers_show_all",
+        "source": null
+    },
+    {
+        "operator": "armature.parent_clear",
+        "source": null
+    },
+    {
+        "operator": "armature.parent_set",
+        "source": null
+    },
+    {
+        "operator": "armature.reveal",
+        "source": null
+    },
+    {
+        "operator": "armature.roll_clear",
+        "source": null
+    },
+    {
+        "operator": "armature.select_all",
+        "source": null
+    },
+    {
+        "operator": "armature.select_hierarchy",
+        "source": null
+    },
+    {
+        "operator": "armature.select_less",
+        "source": null
+    },
+    {
+        "operator": "armature.select_linked",
+        "source": null
+    },
+    {
+        "operator": "armature.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "armature.select_mirror",
+        "source": null
+    },
+    {
+        "operator": "armature.select_more",
+        "source": null
+    },
+    {
+        "operator": "armature.select_similar",
+        "source": null
+    },
+    {
+        "operator": "armature.separate",
+        "source": null
+    },
+    {
+        "operator": "armature.shortest_path_pick",
+        "source": null
+    },
+    {
+        "operator": "armature.split",
+        "source": null
+    },
+    {
+        "operator": "armature.subdivide",
+        "source": null
+    },
+    {
+        "operator": "armature.switch_direction",
+        "source": null
+    },
+    {
+        "operator": "armature.symmetrize",
+        "source": null
+    },
+    {
+        "operator": "asset.clear",
+        "source": null
+    },
+    {
+        "operator": "asset.mark",
+        "source": null
+    },
+    {
+        "operator": "asset.tag_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\assets.py"
+    },
+    {
+        "operator": "asset.tag_remove",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\assets.py"
+    },
+    {
+        "operator": "boid.rule_add",
+        "source": null
+    },
+    {
+        "operator": "boid.rule_del",
+        "source": null
+    },
+    {
+        "operator": "boid.rule_move_down",
+        "source": null
+    },
+    {
+        "operator": "boid.rule_move_up",
+        "source": null
+    },
+    {
+        "operator": "boid.state_add",
+        "source": null
+    },
+    {
+        "operator": "boid.state_del",
+        "source": null
+    },
+    {
+        "operator": "boid.state_move_down",
+        "source": null
+    },
+    {
+        "operator": "boid.state_move_up",
+        "source": null
+    },
+    {
+        "operator": "brush.add",
+        "source": null
+    },
+    {
+        "operator": "brush.add_gpencil",
+        "source": null
+    },
+    {
+        "operator": "brush.curve_preset",
+        "source": null
+    },
+    {
+        "operator": "brush.reset",
+        "source": null
+    },
+    {
+        "operator": "brush.scale_size",
+        "source": null
+    },
+    {
+        "operator": "brush.stencil_control",
+        "source": null
+    },
+    {
+        "operator": "brush.stencil_fit_image_aspect",
+        "source": null
+    },
+    {
+        "operator": "brush.stencil_reset_transform",
+        "source": null
+    },
+    {
+        "operator": "buttons.clear_filter",
+        "source": null
+    },
+    {
+        "operator": "buttons.context_menu",
+        "source": null
+    },
+    {
+        "operator": "buttons.directory_browse",
+        "source": null
+    },
+    {
+        "operator": "buttons.file_browse",
+        "source": null
+    },
+    {
+        "operator": "buttons.start_filter",
+        "source": null
+    },
+    {
+        "operator": "buttons.toggle_pin",
+        "source": null
+    },
+    {
+        "operator": "cachefile.open",
+        "source": null
+    },
+    {
+        "operator": "cachefile.reload",
+        "source": null
+    },
+    {
+        "operator": "camera.preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "clip.add_marker",
+        "source": null
+    },
+    {
+        "operator": "clip.add_marker_at_click",
+        "source": null
+    },
+    {
+        "operator": "clip.add_marker_move",
+        "source": null
+    },
+    {
+        "operator": "clip.add_marker_slide",
+        "source": null
+    },
+    {
+        "operator": "clip.apply_solution_scale",
+        "source": null
+    },
+    {
+        "operator": "clip.average_tracks",
+        "source": null
+    },
+    {
+        "operator": "clip.bundles_to_mesh",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.camera_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "clip.change_frame",
+        "source": null
+    },
+    {
+        "operator": "clip.clean_tracks",
+        "source": null
+    },
+    {
+        "operator": "clip.clear_solution",
+        "source": null
+    },
+    {
+        "operator": "clip.clear_track_path",
+        "source": null
+    },
+    {
+        "operator": "clip.constraint_to_fcurve",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.copy_tracks",
+        "source": null
+    },
+    {
+        "operator": "clip.create_plane_track",
+        "source": null
+    },
+    {
+        "operator": "clip.cursor_set",
+        "source": null
+    },
+    {
+        "operator": "clip.delete_marker",
+        "source": null
+    },
+    {
+        "operator": "clip.delete_proxy",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.delete_track",
+        "source": null
+    },
+    {
+        "operator": "clip.detect_features",
+        "source": null
+    },
+    {
+        "operator": "clip.disable_markers",
+        "source": null
+    },
+    {
+        "operator": "clip.dopesheet_select_channel",
+        "source": null
+    },
+    {
+        "operator": "clip.dopesheet_view_all",
+        "source": null
+    },
+    {
+        "operator": "clip.filter_tracks",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.frame_jump",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_center_current_frame",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_delete_curve",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_delete_knot",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_disable_markers",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_select",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_select_all_markers",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_select_box",
+        "source": null
+    },
+    {
+        "operator": "clip.graph_view_all",
+        "source": null
+    },
+    {
+        "operator": "clip.hide_tracks",
+        "source": null
+    },
+    {
+        "operator": "clip.hide_tracks_clear",
+        "source": null
+    },
+    {
+        "operator": "clip.join_tracks",
+        "source": null
+    },
+    {
+        "operator": "clip.keyframe_delete",
+        "source": null
+    },
+    {
+        "operator": "clip.keyframe_insert",
+        "source": null
+    },
+    {
+        "operator": "clip.lock_selection_toggle",
+        "source": null
+    },
+    {
+        "operator": "clip.lock_tracks",
+        "source": null
+    },
+    {
+        "operator": "clip.mode_set",
+        "source": null
+    },
+    {
+        "operator": "clip.open",
+        "source": null
+    },
+    {
+        "operator": "clip.paste_tracks",
+        "source": null
+    },
+    {
+        "operator": "clip.prefetch",
+        "source": null
+    },
+    {
+        "operator": "clip.rebuild_proxy",
+        "source": null
+    },
+    {
+        "operator": "clip.refine_markers",
+        "source": null
+    },
+    {
+        "operator": "clip.reload",
+        "source": null
+    },
+    {
+        "operator": "clip.select",
+        "source": null
+    },
+    {
+        "operator": "clip.select_all",
+        "source": null
+    },
+    {
+        "operator": "clip.select_box",
+        "source": null
+    },
+    {
+        "operator": "clip.select_circle",
+        "source": null
+    },
+    {
+        "operator": "clip.select_grouped",
+        "source": null
+    },
+    {
+        "operator": "clip.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "clip.set_active_clip",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.set_axis",
+        "source": null
+    },
+    {
+        "operator": "clip.set_center_principal",
+        "source": null
+    },
+    {
+        "operator": "clip.set_origin",
+        "source": null
+    },
+    {
+        "operator": "clip.set_plane",
+        "source": null
+    },
+    {
+        "operator": "clip.set_scale",
+        "source": null
+    },
+    {
+        "operator": "clip.set_scene_frames",
+        "source": null
+    },
+    {
+        "operator": "clip.set_solution_scale",
+        "source": null
+    },
+    {
+        "operator": "clip.set_solver_keyframe",
+        "source": null
+    },
+    {
+        "operator": "clip.set_viewport_background",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.setup_tracking_scene",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.slide_marker",
+        "source": null
+    },
+    {
+        "operator": "clip.slide_plane_marker",
+        "source": null
+    },
+    {
+        "operator": "clip.solve_camera",
+        "source": null
+    },
+    {
+        "operator": "clip.stabilize_2d_add",
+        "source": null
+    },
+    {
+        "operator": "clip.stabilize_2d_remove",
+        "source": null
+    },
+    {
+        "operator": "clip.stabilize_2d_rotation_add",
+        "source": null
+    },
+    {
+        "operator": "clip.stabilize_2d_rotation_remove",
+        "source": null
+    },
+    {
+        "operator": "clip.stabilize_2d_rotation_select",
+        "source": null
+    },
+    {
+        "operator": "clip.stabilize_2d_select",
+        "source": null
+    },
+    {
+        "operator": "clip.track_color_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "clip.track_copy_color",
+        "source": null
+    },
+    {
+        "operator": "clip.track_markers",
+        "source": null
+    },
+    {
+        "operator": "clip.track_settings_as_default",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.track_settings_to_track",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.track_to_empty",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\clip.py"
+    },
+    {
+        "operator": "clip.tracking_object_new",
+        "source": null
+    },
+    {
+        "operator": "clip.tracking_object_remove",
+        "source": null
+    },
+    {
+        "operator": "clip.tracking_settings_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "clip.view_all",
+        "source": null
+    },
+    {
+        "operator": "clip.view_center_cursor",
+        "source": null
+    },
+    {
+        "operator": "clip.view_ndof",
+        "source": null
+    },
+    {
+        "operator": "clip.view_pan",
+        "source": null
+    },
+    {
+        "operator": "clip.view_selected",
+        "source": null
+    },
+    {
+        "operator": "clip.view_zoom",
+        "source": null
+    },
+    {
+        "operator": "clip.view_zoom_in",
+        "source": null
+    },
+    {
+        "operator": "clip.view_zoom_out",
+        "source": null
+    },
+    {
+        "operator": "clip.view_zoom_ratio",
+        "source": null
+    },
+    {
+        "operator": "cloth.preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "collection.create",
+        "source": null
+    },
+    {
+        "operator": "collection.objects_add_active",
+        "source": null
+    },
+    {
+        "operator": "collection.objects_remove",
+        "source": null
+    },
+    {
+        "operator": "collection.objects_remove_active",
+        "source": null
+    },
+    {
+        "operator": "collection.objects_remove_all",
+        "source": null
+    },
+    {
+        "operator": "console.autocomplete",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\console.py"
+    },
+    {
+        "operator": "console.banner",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\console.py"
+    },
+    {
+        "operator": "console.clear",
+        "source": null
+    },
+    {
+        "operator": "console.clear_line",
+        "source": null
+    },
+    {
+        "operator": "console.copy",
+        "source": null
+    },
+    {
+        "operator": "console.copy_as_script",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\console.py"
+    },
+    {
+        "operator": "console.delete",
+        "source": null
+    },
+    {
+        "operator": "console.execute",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\console.py"
+    },
+    {
+        "operator": "console.history_append",
+        "source": null
+    },
+    {
+        "operator": "console.history_cycle",
+        "source": null
+    },
+    {
+        "operator": "console.indent",
+        "source": null
+    },
+    {
+        "operator": "console.indent_or_autocomplete",
+        "source": null
+    },
+    {
+        "operator": "console.insert",
+        "source": null
+    },
+    {
+        "operator": "console.language",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\console.py"
+    },
+    {
+        "operator": "console.move",
+        "source": null
+    },
+    {
+        "operator": "console.paste",
+        "source": null
+    },
+    {
+        "operator": "console.scrollback_append",
+        "source": null
+    },
+    {
+        "operator": "console.select_set",
+        "source": null
+    },
+    {
+        "operator": "console.select_word",
+        "source": null
+    },
+    {
+        "operator": "console.unindent",
+        "source": null
+    },
+    {
+        "operator": "constraint.add_target",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\constraint.py"
+    },
+    {
+        "operator": "constraint.childof_clear_inverse",
+        "source": null
+    },
+    {
+        "operator": "constraint.childof_set_inverse",
+        "source": null
+    },
+    {
+        "operator": "constraint.delete",
+        "source": null
+    },
+    {
+        "operator": "constraint.disable_keep_transform",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\constraint.py"
+    },
+    {
+        "operator": "constraint.followpath_path_animate",
+        "source": null
+    },
+    {
+        "operator": "constraint.limitdistance_reset",
+        "source": null
+    },
+    {
+        "operator": "constraint.move_down",
+        "source": null
+    },
+    {
+        "operator": "constraint.move_to_index",
+        "source": null
+    },
+    {
+        "operator": "constraint.move_up",
+        "source": null
+    },
+    {
+        "operator": "constraint.normalize_target_weights",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\constraint.py"
+    },
+    {
+        "operator": "constraint.objectsolver_clear_inverse",
+        "source": null
+    },
+    {
+        "operator": "constraint.objectsolver_set_inverse",
+        "source": null
+    },
+    {
+        "operator": "constraint.remove_target",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\constraint.py"
+    },
+    {
+        "operator": "constraint.stretchto_reset",
+        "source": null
+    },
+    {
+        "operator": "curve.cyclic_toggle",
+        "source": null
+    },
+    {
+        "operator": "curve.de_select_first",
+        "source": null
+    },
+    {
+        "operator": "curve.de_select_last",
+        "source": null
+    },
+    {
+        "operator": "curve.decimate",
+        "source": null
+    },
+    {
+        "operator": "curve.delete",
+        "source": null
+    },
+    {
+        "operator": "curve.dissolve_verts",
+        "source": null
+    },
+    {
+        "operator": "curve.draw",
+        "source": null
+    },
+    {
+        "operator": "curve.duplicate",
+        "source": null
+    },
+    {
+        "operator": "curve.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "curve.extrude",
+        "source": null
+    },
+    {
+        "operator": "curve.extrude_move",
+        "source": null
+    },
+    {
+        "operator": "curve.handle_type_set",
+        "source": null
+    },
+    {
+        "operator": "curve.hide",
+        "source": null
+    },
+    {
+        "operator": "curve.make_segment",
+        "source": null
+    },
+    {
+        "operator": "curve.match_texture_space",
+        "source": null
+    },
+    {
+        "operator": "curve.normals_make_consistent",
+        "source": null
+    },
+    {
+        "operator": "curve.primitive_bezier_circle_add",
+        "source": null
+    },
+    {
+        "operator": "curve.primitive_bezier_curve_add",
+        "source": null
+    },
+    {
+        "operator": "curve.primitive_nurbs_circle_add",
+        "source": null
+    },
+    {
+        "operator": "curve.primitive_nurbs_curve_add",
+        "source": null
+    },
+    {
+        "operator": "curve.primitive_nurbs_path_add",
+        "source": null
+    },
+    {
+        "operator": "curve.radius_set",
+        "source": null
+    },
+    {
+        "operator": "curve.reveal",
+        "source": null
+    },
+    {
+        "operator": "curve.select_all",
+        "source": null
+    },
+    {
+        "operator": "curve.select_less",
+        "source": null
+    },
+    {
+        "operator": "curve.select_linked",
+        "source": null
+    },
+    {
+        "operator": "curve.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "curve.select_more",
+        "source": null
+    },
+    {
+        "operator": "curve.select_next",
+        "source": null
+    },
+    {
+        "operator": "curve.select_nth",
+        "source": null
+    },
+    {
+        "operator": "curve.select_previous",
+        "source": null
+    },
+    {
+        "operator": "curve.select_random",
+        "source": null
+    },
+    {
+        "operator": "curve.select_row",
+        "source": null
+    },
+    {
+        "operator": "curve.select_similar",
+        "source": null
+    },
+    {
+        "operator": "curve.separate",
+        "source": null
+    },
+    {
+        "operator": "curve.shade_flat",
+        "source": null
+    },
+    {
+        "operator": "curve.shade_smooth",
+        "source": null
+    },
+    {
+        "operator": "curve.shortest_path_pick",
+        "source": null
+    },
+    {
+        "operator": "curve.smooth",
+        "source": null
+    },
+    {
+        "operator": "curve.smooth_radius",
+        "source": null
+    },
+    {
+        "operator": "curve.smooth_tilt",
+        "source": null
+    },
+    {
+        "operator": "curve.smooth_weight",
+        "source": null
+    },
+    {
+        "operator": "curve.spin",
+        "source": null
+    },
+    {
+        "operator": "curve.spline_type_set",
+        "source": null
+    },
+    {
+        "operator": "curve.spline_weight_set",
+        "source": null
+    },
+    {
+        "operator": "curve.split",
+        "source": null
+    },
+    {
+        "operator": "curve.subdivide",
+        "source": null
+    },
+    {
+        "operator": "curve.switch_direction",
+        "source": null
+    },
+    {
+        "operator": "curve.tilt_clear",
+        "source": null
+    },
+    {
+        "operator": "curve.vertex_add",
+        "source": null
+    },
+    {
+        "operator": "cycles.denoise_animation",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\addons\\cycles\\operators.py"
+    },
+    {
+        "operator": "cycles.merge_images",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\addons\\cycles\\operators.py"
+    },
+    {
+        "operator": "cycles.use_shading_nodes",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\addons\\cycles\\operators.py"
+    },
+    {
+        "operator": "dpaint.bake",
+        "source": null
+    },
+    {
+        "operator": "dpaint.output_toggle",
+        "source": null
+    },
+    {
+        "operator": "dpaint.surface_slot_add",
+        "source": null
+    },
+    {
+        "operator": "dpaint.surface_slot_remove",
+        "source": null
+    },
+    {
+        "operator": "dpaint.type_toggle",
+        "source": null
+    },
+    {
+        "operator": "ed.flush_edits",
+        "source": null
+    },
+    {
+        "operator": "ed.lib_id_fake_user_toggle",
+        "source": null
+    },
+    {
+        "operator": "ed.lib_id_generate_preview",
+        "source": null
+    },
+    {
+        "operator": "ed.lib_id_load_custom_preview",
+        "source": null
+    },
+    {
+        "operator": "ed.lib_id_unlink",
+        "source": null
+    },
+    {
+        "operator": "ed.redo",
+        "source": null
+    },
+    {
+        "operator": "ed.undo",
+        "source": null
+    },
+    {
+        "operator": "ed.undo_history",
+        "source": null
+    },
+    {
+        "operator": "ed.undo_push",
+        "source": null
+    },
+    {
+        "operator": "ed.undo_redo",
+        "source": null
+    },
+    {
+        "operator": "file.autopack_toggle",
+        "source": null
+    },
+    {
+        "operator": "file.bookmark_add",
+        "source": null
+    },
+    {
+        "operator": "file.bookmark_cleanup",
+        "source": null
+    },
+    {
+        "operator": "file.bookmark_delete",
+        "source": null
+    },
+    {
+        "operator": "file.bookmark_move",
+        "source": null
+    },
+    {
+        "operator": "file.cancel",
+        "source": null
+    },
+    {
+        "operator": "file.delete",
+        "source": null
+    },
+    {
+        "operator": "file.directory_new",
+        "source": null
+    },
+    {
+        "operator": "file.execute",
+        "source": null
+    },
+    {
+        "operator": "file.filenum",
+        "source": null
+    },
+    {
+        "operator": "file.filepath_drop",
+        "source": null
+    },
+    {
+        "operator": "file.find_missing_files",
+        "source": null
+    },
+    {
+        "operator": "file.hidedot",
+        "source": null
+    },
+    {
+        "operator": "file.highlight",
+        "source": null
+    },
+    {
+        "operator": "file.make_paths_absolute",
+        "source": null
+    },
+    {
+        "operator": "file.make_paths_relative",
+        "source": null
+    },
+    {
+        "operator": "file.next",
+        "source": null
+    },
+    {
+        "operator": "file.pack_all",
+        "source": null
+    },
+    {
+        "operator": "file.pack_libraries",
+        "source": null
+    },
+    {
+        "operator": "file.parent",
+        "source": null
+    },
+    {
+        "operator": "file.previous",
+        "source": null
+    },
+    {
+        "operator": "file.refresh",
+        "source": null
+    },
+    {
+        "operator": "file.rename",
+        "source": null
+    },
+    {
+        "operator": "file.report_missing_files",
+        "source": null
+    },
+    {
+        "operator": "file.reset_recent",
+        "source": null
+    },
+    {
+        "operator": "file.select",
+        "source": null
+    },
+    {
+        "operator": "file.select_all",
+        "source": null
+    },
+    {
+        "operator": "file.select_bookmark",
+        "source": null
+    },
+    {
+        "operator": "file.select_box",
+        "source": null
+    },
+    {
+        "operator": "file.select_walk",
+        "source": null
+    },
+    {
+        "operator": "file.smoothscroll",
+        "source": null
+    },
+    {
+        "operator": "file.sort_column_ui_context",
+        "source": null
+    },
+    {
+        "operator": "file.start_filter",
+        "source": null
+    },
+    {
+        "operator": "file.unpack_all",
+        "source": null
+    },
+    {
+        "operator": "file.unpack_item",
+        "source": null
+    },
+    {
+        "operator": "file.unpack_libraries",
+        "source": null
+    },
+    {
+        "operator": "file.view_selected",
+        "source": null
+    },
+    {
+        "operator": "fluid.bake_all",
+        "source": null
+    },
+    {
+        "operator": "fluid.bake_data",
+        "source": null
+    },
+    {
+        "operator": "fluid.bake_guides",
+        "source": null
+    },
+    {
+        "operator": "fluid.bake_mesh",
+        "source": null
+    },
+    {
+        "operator": "fluid.bake_noise",
+        "source": null
+    },
+    {
+        "operator": "fluid.bake_particles",
+        "source": null
+    },
+    {
+        "operator": "fluid.free_all",
+        "source": null
+    },
+    {
+        "operator": "fluid.free_data",
+        "source": null
+    },
+    {
+        "operator": "fluid.free_guides",
+        "source": null
+    },
+    {
+        "operator": "fluid.free_mesh",
+        "source": null
+    },
+    {
+        "operator": "fluid.free_noise",
+        "source": null
+    },
+    {
+        "operator": "fluid.free_particles",
+        "source": null
+    },
+    {
+        "operator": "fluid.pause_bake",
+        "source": null
+    },
+    {
+        "operator": "fluid.preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "font.case_set",
+        "source": null
+    },
+    {
+        "operator": "font.case_toggle",
+        "source": null
+    },
+    {
+        "operator": "font.change_character",
+        "source": null
+    },
+    {
+        "operator": "font.change_spacing",
+        "source": null
+    },
+    {
+        "operator": "font.delete",
+        "source": null
+    },
+    {
+        "operator": "font.line_break",
+        "source": null
+    },
+    {
+        "operator": "font.move",
+        "source": null
+    },
+    {
+        "operator": "font.move_select",
+        "source": null
+    },
+    {
+        "operator": "font.open",
+        "source": null
+    },
+    {
+        "operator": "font.select_all",
+        "source": null
+    },
+    {
+        "operator": "font.style_set",
+        "source": null
+    },
+    {
+        "operator": "font.style_toggle",
+        "source": null
+    },
+    {
+        "operator": "font.text_copy",
+        "source": null
+    },
+    {
+        "operator": "font.text_cut",
+        "source": null
+    },
+    {
+        "operator": "font.text_insert",
+        "source": null
+    },
+    {
+        "operator": "font.text_paste",
+        "source": null
+    },
+    {
+        "operator": "font.text_paste_from_file",
+        "source": null
+    },
+    {
+        "operator": "font.textbox_add",
+        "source": null
+    },
+    {
+        "operator": "font.textbox_remove",
+        "source": null
+    },
+    {
+        "operator": "font.unlink",
+        "source": null
+    },
+    {
+        "operator": "geometry.attribute_add",
+        "source": null
+    },
+    {
+        "operator": "geometry.attribute_remove",
+        "source": null
+    },
+    {
+        "operator": "gizmogroup.gizmo_select",
+        "source": null
+    },
+    {
+        "operator": "gizmogroup.gizmo_tweak",
+        "source": null
+    },
+    {
+        "operator": "gpencil.active_frame_delete",
+        "source": null
+    },
+    {
+        "operator": "gpencil.active_frames_delete_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.annotate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.annotation_active_frame_delete",
+        "source": null
+    },
+    {
+        "operator": "gpencil.annotation_add",
+        "source": null
+    },
+    {
+        "operator": "gpencil.bake_mesh_animation",
+        "source": null
+    },
+    {
+        "operator": "gpencil.blank_frame_add",
+        "source": null
+    },
+    {
+        "operator": "gpencil.brush_reset",
+        "source": null
+    },
+    {
+        "operator": "gpencil.brush_reset_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.convert",
+        "source": null
+    },
+    {
+        "operator": "gpencil.convert_old_files",
+        "source": null
+    },
+    {
+        "operator": "gpencil.copy",
+        "source": null
+    },
+    {
+        "operator": "gpencil.data_unlink",
+        "source": null
+    },
+    {
+        "operator": "gpencil.delete",
+        "source": null
+    },
+    {
+        "operator": "gpencil.dissolve",
+        "source": null
+    },
+    {
+        "operator": "gpencil.draw",
+        "source": null
+    },
+    {
+        "operator": "gpencil.duplicate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "gpencil.editmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.extract_palette_vertex",
+        "source": null
+    },
+    {
+        "operator": "gpencil.extrude",
+        "source": null
+    },
+    {
+        "operator": "gpencil.extrude_move",
+        "source": null
+    },
+    {
+        "operator": "gpencil.fill",
+        "source": null
+    },
+    {
+        "operator": "gpencil.frame_clean_duplicate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.frame_clean_fill",
+        "source": null
+    },
+    {
+        "operator": "gpencil.frame_clean_loose",
+        "source": null
+    },
+    {
+        "operator": "gpencil.frame_duplicate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.generate_weights",
+        "source": null
+    },
+    {
+        "operator": "gpencil.guide_rotate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.hide",
+        "source": null
+    },
+    {
+        "operator": "gpencil.image_to_grease_pencil",
+        "source": null
+    },
+    {
+        "operator": "gpencil.interpolate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.interpolate_reverse",
+        "source": null
+    },
+    {
+        "operator": "gpencil.interpolate_sequence",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_active",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_add",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_annotation_add",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_annotation_move",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_annotation_remove",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_change",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_duplicate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_duplicate_object",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_isolate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_mask_add",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_mask_remove",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_merge",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_move",
+        "source": null
+    },
+    {
+        "operator": "gpencil.layer_remove",
+        "source": null
+    },
+    {
+        "operator": "gpencil.lock_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.lock_layer",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_hide",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_isolate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_lock_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_lock_unused",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_reveal",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_select",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_set",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_to_vertex_color",
+        "source": null
+    },
+    {
+        "operator": "gpencil.material_unlock_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.move_to_layer",
+        "source": null
+    },
+    {
+        "operator": "gpencil.paintmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.paste",
+        "source": null
+    },
+    {
+        "operator": "gpencil.primitive_box",
+        "source": null
+    },
+    {
+        "operator": "gpencil.primitive_circle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.primitive_curve",
+        "source": null
+    },
+    {
+        "operator": "gpencil.primitive_line",
+        "source": null
+    },
+    {
+        "operator": "gpencil.primitive_polyline",
+        "source": null
+    },
+    {
+        "operator": "gpencil.recalc_geometry",
+        "source": null
+    },
+    {
+        "operator": "gpencil.reproject",
+        "source": null
+    },
+    {
+        "operator": "gpencil.reset_transform_fill",
+        "source": null
+    },
+    {
+        "operator": "gpencil.reveal",
+        "source": null
+    },
+    {
+        "operator": "gpencil.sculpt_paint",
+        "source": null
+    },
+    {
+        "operator": "gpencil.sculptmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_alternate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_box",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_circle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_first",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_grouped",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_last",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_less",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_linked",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_more",
+        "source": null
+    },
+    {
+        "operator": "gpencil.select_vertex_color",
+        "source": null
+    },
+    {
+        "operator": "gpencil.selection_opacity_toggle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.selectmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.set_active_material",
+        "source": null
+    },
+    {
+        "operator": "gpencil.snap_cursor_to_selected",
+        "source": null
+    },
+    {
+        "operator": "gpencil.snap_to_cursor",
+        "source": null
+    },
+    {
+        "operator": "gpencil.snap_to_grid",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_apply_thickness",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_arrange",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_caps_set",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_change_color",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_cutter",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_cyclical_set",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_editcurve_set_handle_type",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_enter_editcurve_mode",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_flip",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_join",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_merge",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_merge_by_distance",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_merge_material",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_reset_vertex_color",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_sample",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_separate",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_simplify",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_simplify_fixed",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_smooth",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_split",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_subdivide",
+        "source": null
+    },
+    {
+        "operator": "gpencil.stroke_trim",
+        "source": null
+    },
+    {
+        "operator": "gpencil.tint_flip",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_ui\\properties_grease_pencil_common.py"
+    },
+    {
+        "operator": "gpencil.trace_image",
+        "source": null
+    },
+    {
+        "operator": "gpencil.transform_fill",
+        "source": null
+    },
+    {
+        "operator": "gpencil.unlock_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_color_brightness_contrast",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_color_hsv",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_color_invert",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_color_levels",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_color_set",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_assign",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_deselect",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_invert",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_normalize",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_normalize_all",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_remove_from",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_select",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_group_smooth",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertex_paint",
+        "source": null
+    },
+    {
+        "operator": "gpencil.vertexmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "gpencil.weight_paint",
+        "source": null
+    },
+    {
+        "operator": "gpencil.weightmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "graph.bake",
+        "source": null
+    },
+    {
+        "operator": "graph.clean",
+        "source": null
+    },
+    {
+        "operator": "graph.click_insert",
+        "source": null
+    },
+    {
+        "operator": "graph.clickselect",
+        "source": null
+    },
+    {
+        "operator": "graph.copy",
+        "source": null
+    },
+    {
+        "operator": "graph.cursor_set",
+        "source": null
+    },
+    {
+        "operator": "graph.decimate",
+        "source": null
+    },
+    {
+        "operator": "graph.delete",
+        "source": null
+    },
+    {
+        "operator": "graph.driver_delete_invalid",
+        "source": null
+    },
+    {
+        "operator": "graph.driver_variables_copy",
+        "source": null
+    },
+    {
+        "operator": "graph.driver_variables_paste",
+        "source": null
+    },
+    {
+        "operator": "graph.duplicate",
+        "source": null
+    },
+    {
+        "operator": "graph.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "graph.easing_type",
+        "source": null
+    },
+    {
+        "operator": "graph.euler_filter",
+        "source": null
+    },
+    {
+        "operator": "graph.extrapolation_type",
+        "source": null
+    },
+    {
+        "operator": "graph.fmodifier_add",
+        "source": null
+    },
+    {
+        "operator": "graph.fmodifier_copy",
+        "source": null
+    },
+    {
+        "operator": "graph.fmodifier_paste",
+        "source": null
+    },
+    {
+        "operator": "graph.frame_jump",
+        "source": null
+    },
+    {
+        "operator": "graph.ghost_curves_clear",
+        "source": null
+    },
+    {
+        "operator": "graph.ghost_curves_create",
+        "source": null
+    },
+    {
+        "operator": "graph.handle_type",
+        "source": null
+    },
+    {
+        "operator": "graph.hide",
+        "source": null
+    },
+    {
+        "operator": "graph.interpolation_type",
+        "source": null
+    },
+    {
+        "operator": "graph.keyframe_insert",
+        "source": null
+    },
+    {
+        "operator": "graph.mirror",
+        "source": null
+    },
+    {
+        "operator": "graph.paste",
+        "source": null
+    },
+    {
+        "operator": "graph.previewrange_set",
+        "source": null
+    },
+    {
+        "operator": "graph.reveal",
+        "source": null
+    },
+    {
+        "operator": "graph.sample",
+        "source": null
+    },
+    {
+        "operator": "graph.select_all",
+        "source": null
+    },
+    {
+        "operator": "graph.select_box",
+        "source": null
+    },
+    {
+        "operator": "graph.select_circle",
+        "source": null
+    },
+    {
+        "operator": "graph.select_column",
+        "source": null
+    },
+    {
+        "operator": "graph.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "graph.select_leftright",
+        "source": null
+    },
+    {
+        "operator": "graph.select_less",
+        "source": null
+    },
+    {
+        "operator": "graph.select_linked",
+        "source": null
+    },
+    {
+        "operator": "graph.select_more",
+        "source": null
+    },
+    {
+        "operator": "graph.smooth",
+        "source": null
+    },
+    {
+        "operator": "graph.snap",
+        "source": null
+    },
+    {
+        "operator": "graph.snap_cursor_value",
+        "source": null
+    },
+    {
+        "operator": "graph.sound_bake",
+        "source": null
+    },
+    {
+        "operator": "graph.unbake",
+        "source": null
+    },
+    {
+        "operator": "graph.view_all",
+        "source": null
+    },
+    {
+        "operator": "graph.view_frame",
+        "source": null
+    },
+    {
+        "operator": "graph.view_selected",
+        "source": null
+    },
+    {
+        "operator": "image.add_render_slot",
+        "source": null
+    },
+    {
+        "operator": "image.change_frame",
+        "source": null
+    },
+    {
+        "operator": "image.clear_render_border",
+        "source": null
+    },
+    {
+        "operator": "image.clear_render_slot",
+        "source": null
+    },
+    {
+        "operator": "image.curves_point_set",
+        "source": null
+    },
+    {
+        "operator": "image.cycle_render_slot",
+        "source": null
+    },
+    {
+        "operator": "image.external_edit",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\image.py"
+    },
+    {
+        "operator": "image.flip",
+        "source": null
+    },
+    {
+        "operator": "image.invert",
+        "source": null
+    },
+    {
+        "operator": "image.match_movie_length",
+        "source": null
+    },
+    {
+        "operator": "image.new",
+        "source": null
+    },
+    {
+        "operator": "image.open",
+        "source": null
+    },
+    {
+        "operator": "image.pack",
+        "source": null
+    },
+    {
+        "operator": "image.project_apply",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\image.py"
+    },
+    {
+        "operator": "image.project_edit",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\image.py"
+    },
+    {
+        "operator": "image.read_viewlayers",
+        "source": null
+    },
+    {
+        "operator": "image.reload",
+        "source": null
+    },
+    {
+        "operator": "image.remove_render_slot",
+        "source": null
+    },
+    {
+        "operator": "image.render_border",
+        "source": null
+    },
+    {
+        "operator": "image.replace",
+        "source": null
+    },
+    {
+        "operator": "image.resize",
+        "source": null
+    },
+    {
+        "operator": "image.sample",
+        "source": null
+    },
+    {
+        "operator": "image.sample_line",
+        "source": null
+    },
+    {
+        "operator": "image.save",
+        "source": null
+    },
+    {
+        "operator": "image.save_all_modified",
+        "source": null
+    },
+    {
+        "operator": "image.save_as",
+        "source": null
+    },
+    {
+        "operator": "image.save_sequence",
+        "source": null
+    },
+    {
+        "operator": "image.tile_add",
+        "source": null
+    },
+    {
+        "operator": "image.tile_fill",
+        "source": null
+    },
+    {
+        "operator": "image.tile_remove",
+        "source": null
+    },
+    {
+        "operator": "image.unpack",
+        "source": null
+    },
+    {
+        "operator": "image.view_all",
+        "source": null
+    },
+    {
+        "operator": "image.view_center_cursor",
+        "source": null
+    },
+    {
+        "operator": "image.view_cursor_center",
+        "source": null
+    },
+    {
+        "operator": "image.view_ndof",
+        "source": null
+    },
+    {
+        "operator": "image.view_pan",
+        "source": null
+    },
+    {
+        "operator": "image.view_selected",
+        "source": null
+    },
+    {
+        "operator": "image.view_zoom",
+        "source": null
+    },
+    {
+        "operator": "image.view_zoom_border",
+        "source": null
+    },
+    {
+        "operator": "image.view_zoom_in",
+        "source": null
+    },
+    {
+        "operator": "image.view_zoom_out",
+        "source": null
+    },
+    {
+        "operator": "image.view_zoom_ratio",
+        "source": null
+    },
+    {
+        "operator": "imagepaste.imageeditor_copy",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\ImagePaste\\imagepaste\\operators.py"
+    },
+    {
+        "operator": "imagepaste.imageeditor_paste",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\ImagePaste\\imagepaste\\operators.py"
+    },
+    {
+        "operator": "imagepaste.move_to_save_directory",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\ImagePaste\\imagepaste\\operators.py"
+    },
+    {
+        "operator": "imagepaste.sequenceeditor_paste",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\ImagePaste\\imagepaste\\operators.py"
+    },
+    {
+        "operator": "imagepaste.shadereditor_paste",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\ImagePaste\\imagepaste\\operators.py"
+    },
+    {
+        "operator": "imagepaste.view3d_paste_plane",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\ImagePaste\\imagepaste\\operators.py"
+    },
+    {
+        "operator": "imagepaste.view3d_paste_reference",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\ImagePaste\\imagepaste\\operators.py"
+    },
+    {
+        "operator": "info.report_copy",
+        "source": null
+    },
+    {
+        "operator": "info.report_delete",
+        "source": null
+    },
+    {
+        "operator": "info.report_replay",
+        "source": null
+    },
+    {
+        "operator": "info.reports_display_update",
+        "source": null
+    },
+    {
+        "operator": "info.select_all",
+        "source": null
+    },
+    {
+        "operator": "info.select_box",
+        "source": null
+    },
+    {
+        "operator": "info.select_pick",
+        "source": null
+    },
+    {
+        "operator": "lattice.flip",
+        "source": null
+    },
+    {
+        "operator": "lattice.make_regular",
+        "source": null
+    },
+    {
+        "operator": "lattice.select_all",
+        "source": null
+    },
+    {
+        "operator": "lattice.select_less",
+        "source": null
+    },
+    {
+        "operator": "lattice.select_mirror",
+        "source": null
+    },
+    {
+        "operator": "lattice.select_more",
+        "source": null
+    },
+    {
+        "operator": "lattice.select_random",
+        "source": null
+    },
+    {
+        "operator": "lattice.select_ungrouped",
+        "source": null
+    },
+    {
+        "operator": "marker.add",
+        "source": null
+    },
+    {
+        "operator": "marker.camera_bind",
+        "source": null
+    },
+    {
+        "operator": "marker.delete",
+        "source": null
+    },
+    {
+        "operator": "marker.duplicate",
+        "source": null
+    },
+    {
+        "operator": "marker.make_links_scene",
+        "source": null
+    },
+    {
+        "operator": "marker.move",
+        "source": null
+    },
+    {
+        "operator": "marker.rename",
+        "source": null
+    },
+    {
+        "operator": "marker.select",
+        "source": null
+    },
+    {
+        "operator": "marker.select_all",
+        "source": null
+    },
+    {
+        "operator": "marker.select_box",
+        "source": null
+    },
+    {
+        "operator": "mask.add_feather_vertex",
+        "source": null
+    },
+    {
+        "operator": "mask.add_feather_vertex_slide",
+        "source": null
+    },
+    {
+        "operator": "mask.add_vertex",
+        "source": null
+    },
+    {
+        "operator": "mask.add_vertex_slide",
+        "source": null
+    },
+    {
+        "operator": "mask.copy_splines",
+        "source": null
+    },
+    {
+        "operator": "mask.cyclic_toggle",
+        "source": null
+    },
+    {
+        "operator": "mask.delete",
+        "source": null
+    },
+    {
+        "operator": "mask.duplicate",
+        "source": null
+    },
+    {
+        "operator": "mask.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "mask.feather_weight_clear",
+        "source": null
+    },
+    {
+        "operator": "mask.handle_type_set",
+        "source": null
+    },
+    {
+        "operator": "mask.hide_view_clear",
+        "source": null
+    },
+    {
+        "operator": "mask.hide_view_set",
+        "source": null
+    },
+    {
+        "operator": "mask.layer_move",
+        "source": null
+    },
+    {
+        "operator": "mask.layer_new",
+        "source": null
+    },
+    {
+        "operator": "mask.layer_remove",
+        "source": null
+    },
+    {
+        "operator": "mask.new",
+        "source": null
+    },
+    {
+        "operator": "mask.normals_make_consistent",
+        "source": null
+    },
+    {
+        "operator": "mask.parent_clear",
+        "source": null
+    },
+    {
+        "operator": "mask.parent_set",
+        "source": null
+    },
+    {
+        "operator": "mask.paste_splines",
+        "source": null
+    },
+    {
+        "operator": "mask.primitive_circle_add",
+        "source": null
+    },
+    {
+        "operator": "mask.primitive_square_add",
+        "source": null
+    },
+    {
+        "operator": "mask.select",
+        "source": null
+    },
+    {
+        "operator": "mask.select_all",
+        "source": null
+    },
+    {
+        "operator": "mask.select_box",
+        "source": null
+    },
+    {
+        "operator": "mask.select_circle",
+        "source": null
+    },
+    {
+        "operator": "mask.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "mask.select_less",
+        "source": null
+    },
+    {
+        "operator": "mask.select_linked",
+        "source": null
+    },
+    {
+        "operator": "mask.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "mask.select_more",
+        "source": null
+    },
+    {
+        "operator": "mask.shape_key_clear",
+        "source": null
+    },
+    {
+        "operator": "mask.shape_key_feather_reset",
+        "source": null
+    },
+    {
+        "operator": "mask.shape_key_insert",
+        "source": null
+    },
+    {
+        "operator": "mask.shape_key_rekey",
+        "source": null
+    },
+    {
+        "operator": "mask.slide_point",
+        "source": null
+    },
+    {
+        "operator": "mask.slide_spline_curvature",
+        "source": null
+    },
+    {
+        "operator": "mask.switch_direction",
+        "source": null
+    },
+    {
+        "operator": "material.copy",
+        "source": null
+    },
+    {
+        "operator": "material.new",
+        "source": null
+    },
+    {
+        "operator": "material.paste",
+        "source": null
+    },
+    {
+        "operator": "mball.delete_metaelems",
+        "source": null
+    },
+    {
+        "operator": "mball.duplicate_metaelems",
+        "source": null
+    },
+    {
+        "operator": "mball.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "mball.hide_metaelems",
+        "source": null
+    },
+    {
+        "operator": "mball.reveal_metaelems",
+        "source": null
+    },
+    {
+        "operator": "mball.select_all",
+        "source": null
+    },
+    {
+        "operator": "mball.select_random_metaelems",
+        "source": null
+    },
+    {
+        "operator": "mball.select_similar",
+        "source": null
+    },
+    {
+        "operator": "mesh.average_normals",
+        "source": null
+    },
+    {
+        "operator": "mesh.beautify_fill",
+        "source": null
+    },
+    {
+        "operator": "mesh.bevel",
+        "source": null
+    },
+    {
+        "operator": "mesh.bisect",
+        "source": null
+    },
+    {
+        "operator": "mesh.blend_from_shape",
+        "source": null
+    },
+    {
+        "operator": "mesh.bridge_edge_loops",
+        "source": null
+    },
+    {
+        "operator": "mesh.colors_reverse",
+        "source": null
+    },
+    {
+        "operator": "mesh.colors_rotate",
+        "source": null
+    },
+    {
+        "operator": "mesh.convex_hull",
+        "source": null
+    },
+    {
+        "operator": "mesh.customdata_custom_splitnormals_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.customdata_custom_splitnormals_clear",
+        "source": null
+    },
+    {
+        "operator": "mesh.customdata_mask_clear",
+        "source": null
+    },
+    {
+        "operator": "mesh.customdata_skin_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.customdata_skin_clear",
+        "source": null
+    },
+    {
+        "operator": "mesh.decimate",
+        "source": null
+    },
+    {
+        "operator": "mesh.delete",
+        "source": null
+    },
+    {
+        "operator": "mesh.delete_edgeloop",
+        "source": null
+    },
+    {
+        "operator": "mesh.delete_loose",
+        "source": null
+    },
+    {
+        "operator": "mesh.dissolve_degenerate",
+        "source": null
+    },
+    {
+        "operator": "mesh.dissolve_edges",
+        "source": null
+    },
+    {
+        "operator": "mesh.dissolve_faces",
+        "source": null
+    },
+    {
+        "operator": "mesh.dissolve_limited",
+        "source": null
+    },
+    {
+        "operator": "mesh.dissolve_mode",
+        "source": null
+    },
+    {
+        "operator": "mesh.dissolve_verts",
+        "source": null
+    },
+    {
+        "operator": "mesh.dupli_extrude_cursor",
+        "source": null
+    },
+    {
+        "operator": "mesh.duplicate",
+        "source": null
+    },
+    {
+        "operator": "mesh.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.edge_collapse",
+        "source": null
+    },
+    {
+        "operator": "mesh.edge_face_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.edge_rotate",
+        "source": null
+    },
+    {
+        "operator": "mesh.edge_split",
+        "source": null
+    },
+    {
+        "operator": "mesh.edgering_select",
+        "source": null
+    },
+    {
+        "operator": "mesh.edges_select_sharp",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_context",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_context_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_edges_indiv",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_edges_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_faces_indiv",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_faces_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_manifold",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_region",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_region_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_region_shrink_fatten",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_repeat",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_vertices_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.extrude_verts_indiv",
+        "source": null
+    },
+    {
+        "operator": "mesh.face_make_planar",
+        "source": null
+    },
+    {
+        "operator": "mesh.face_set_extract",
+        "source": null
+    },
+    {
+        "operator": "mesh.face_split_by_edges",
+        "source": null
+    },
+    {
+        "operator": "mesh.faces_mirror_uv",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\mesh.py"
+    },
+    {
+        "operator": "mesh.faces_select_linked_flat",
+        "source": null
+    },
+    {
+        "operator": "mesh.faces_shade_flat",
+        "source": null
+    },
+    {
+        "operator": "mesh.faces_shade_smooth",
+        "source": null
+    },
+    {
+        "operator": "mesh.fill",
+        "source": null
+    },
+    {
+        "operator": "mesh.fill_grid",
+        "source": null
+    },
+    {
+        "operator": "mesh.fill_holes",
+        "source": null
+    },
+    {
+        "operator": "mesh.flip_normals",
+        "source": null
+    },
+    {
+        "operator": "mesh.hide",
+        "source": null
+    },
+    {
+        "operator": "mesh.inset",
+        "source": null
+    },
+    {
+        "operator": "mesh.intersect",
+        "source": null
+    },
+    {
+        "operator": "mesh.intersect_boolean",
+        "source": null
+    },
+    {
+        "operator": "mesh.knife_project",
+        "source": null
+    },
+    {
+        "operator": "mesh.knife_tool",
+        "source": null
+    },
+    {
+        "operator": "mesh.loop_multi_select",
+        "source": null
+    },
+    {
+        "operator": "mesh.loop_select",
+        "source": null
+    },
+    {
+        "operator": "mesh.loop_to_region",
+        "source": null
+    },
+    {
+        "operator": "mesh.loopcut",
+        "source": null
+    },
+    {
+        "operator": "mesh.loopcut_slide",
+        "source": null
+    },
+    {
+        "operator": "mesh.mark_freestyle_edge",
+        "source": null
+    },
+    {
+        "operator": "mesh.mark_freestyle_face",
+        "source": null
+    },
+    {
+        "operator": "mesh.mark_seam",
+        "source": null
+    },
+    {
+        "operator": "mesh.mark_sharp",
+        "source": null
+    },
+    {
+        "operator": "mesh.merge",
+        "source": null
+    },
+    {
+        "operator": "mesh.merge_normals",
+        "source": null
+    },
+    {
+        "operator": "mesh.mod_weighted_strength",
+        "source": null
+    },
+    {
+        "operator": "mesh.normals_make_consistent",
+        "source": null
+    },
+    {
+        "operator": "mesh.normals_tools",
+        "source": null
+    },
+    {
+        "operator": "mesh.offset_edge_loops",
+        "source": null
+    },
+    {
+        "operator": "mesh.offset_edge_loops_slide",
+        "source": null
+    },
+    {
+        "operator": "mesh.paint_mask_extract",
+        "source": null
+    },
+    {
+        "operator": "mesh.paint_mask_slice",
+        "source": null
+    },
+    {
+        "operator": "mesh.point_normals",
+        "source": null
+    },
+    {
+        "operator": "mesh.poke",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_delete_at_cursor",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_dissolve_at_cursor",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_extrude_at_cursor_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_face_at_cursor",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_face_at_cursor_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_split_at_cursor",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_split_at_cursor_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_transform_at_cursor",
+        "source": null
+    },
+    {
+        "operator": "mesh.polybuild_transform_at_cursor_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_circle_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_cone_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_cube_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_cube_add_gizmo",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_cylinder_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_grid_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_ico_sphere_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_monkey_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_plane_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.primitive_torus_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\add_mesh_torus.py"
+    },
+    {
+        "operator": "mesh.primitive_uv_sphere_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.quads_convert_to_tris",
+        "source": null
+    },
+    {
+        "operator": "mesh.region_to_loop",
+        "source": null
+    },
+    {
+        "operator": "mesh.remove_doubles",
+        "source": null
+    },
+    {
+        "operator": "mesh.reveal",
+        "source": null
+    },
+    {
+        "operator": "mesh.rip",
+        "source": null
+    },
+    {
+        "operator": "mesh.rip_edge",
+        "source": null
+    },
+    {
+        "operator": "mesh.rip_edge_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.rip_move",
+        "source": null
+    },
+    {
+        "operator": "mesh.screw",
+        "source": null
+    },
+    {
+        "operator": "mesh.sculpt_vertex_color_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.sculpt_vertex_color_remove",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_all",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_axis",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_face_by_sides",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_interior_faces",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_less",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_linked",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_loose",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_mirror",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_mode",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_more",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_next_item",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\mesh.py"
+    },
+    {
+        "operator": "mesh.select_non_manifold",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_nth",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_prev_item",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\mesh.py"
+    },
+    {
+        "operator": "mesh.select_random",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_similar",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_similar_region",
+        "source": null
+    },
+    {
+        "operator": "mesh.select_ungrouped",
+        "source": null
+    },
+    {
+        "operator": "mesh.separate",
+        "source": null
+    },
+    {
+        "operator": "mesh.set_normals_from_faces",
+        "source": null
+    },
+    {
+        "operator": "mesh.shape_propagate_to_all",
+        "source": null
+    },
+    {
+        "operator": "mesh.shortest_path_pick",
+        "source": null
+    },
+    {
+        "operator": "mesh.shortest_path_select",
+        "source": null
+    },
+    {
+        "operator": "mesh.smooth_normals",
+        "source": null
+    },
+    {
+        "operator": "mesh.solidify",
+        "source": null
+    },
+    {
+        "operator": "mesh.sort_elements",
+        "source": null
+    },
+    {
+        "operator": "mesh.spin",
+        "source": null
+    },
+    {
+        "operator": "mesh.split",
+        "source": null
+    },
+    {
+        "operator": "mesh.split_normals",
+        "source": null
+    },
+    {
+        "operator": "mesh.subdivide",
+        "source": null
+    },
+    {
+        "operator": "mesh.subdivide_edgering",
+        "source": null
+    },
+    {
+        "operator": "mesh.symmetrize",
+        "source": null
+    },
+    {
+        "operator": "mesh.symmetry_snap",
+        "source": null
+    },
+    {
+        "operator": "mesh.tris_convert_to_quads",
+        "source": null
+    },
+    {
+        "operator": "mesh.unsubdivide",
+        "source": null
+    },
+    {
+        "operator": "mesh.uv_texture_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.uv_texture_remove",
+        "source": null
+    },
+    {
+        "operator": "mesh.uvs_reverse",
+        "source": null
+    },
+    {
+        "operator": "mesh.uvs_rotate",
+        "source": null
+    },
+    {
+        "operator": "mesh.vert_connect",
+        "source": null
+    },
+    {
+        "operator": "mesh.vert_connect_concave",
+        "source": null
+    },
+    {
+        "operator": "mesh.vert_connect_nonplanar",
+        "source": null
+    },
+    {
+        "operator": "mesh.vert_connect_path",
+        "source": null
+    },
+    {
+        "operator": "mesh.vertex_color_add",
+        "source": null
+    },
+    {
+        "operator": "mesh.vertex_color_remove",
+        "source": null
+    },
+    {
+        "operator": "mesh.vertices_smooth",
+        "source": null
+    },
+    {
+        "operator": "mesh.vertices_smooth_laplacian",
+        "source": null
+    },
+    {
+        "operator": "mesh.wireframe",
+        "source": null
+    },
+    {
+        "operator": "nla.action_pushdown",
+        "source": null
+    },
+    {
+        "operator": "nla.action_sync_length",
+        "source": null
+    },
+    {
+        "operator": "nla.action_unlink",
+        "source": null
+    },
+    {
+        "operator": "nla.actionclip_add",
+        "source": null
+    },
+    {
+        "operator": "nla.apply_scale",
+        "source": null
+    },
+    {
+        "operator": "nla.bake",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\anim.py"
+    },
+    {
+        "operator": "nla.channels_click",
+        "source": null
+    },
+    {
+        "operator": "nla.clear_scale",
+        "source": null
+    },
+    {
+        "operator": "nla.click_select",
+        "source": null
+    },
+    {
+        "operator": "nla.delete",
+        "source": null
+    },
+    {
+        "operator": "nla.duplicate",
+        "source": null
+    },
+    {
+        "operator": "nla.fmodifier_add",
+        "source": null
+    },
+    {
+        "operator": "nla.fmodifier_copy",
+        "source": null
+    },
+    {
+        "operator": "nla.fmodifier_paste",
+        "source": null
+    },
+    {
+        "operator": "nla.make_single_user",
+        "source": null
+    },
+    {
+        "operator": "nla.meta_add",
+        "source": null
+    },
+    {
+        "operator": "nla.meta_remove",
+        "source": null
+    },
+    {
+        "operator": "nla.move_down",
+        "source": null
+    },
+    {
+        "operator": "nla.move_up",
+        "source": null
+    },
+    {
+        "operator": "nla.mute_toggle",
+        "source": null
+    },
+    {
+        "operator": "nla.previewrange_set",
+        "source": null
+    },
+    {
+        "operator": "nla.select_all",
+        "source": null
+    },
+    {
+        "operator": "nla.select_box",
+        "source": null
+    },
+    {
+        "operator": "nla.select_leftright",
+        "source": null
+    },
+    {
+        "operator": "nla.selected_objects_add",
+        "source": null
+    },
+    {
+        "operator": "nla.snap",
+        "source": null
+    },
+    {
+        "operator": "nla.soundclip_add",
+        "source": null
+    },
+    {
+        "operator": "nla.split",
+        "source": null
+    },
+    {
+        "operator": "nla.swap",
+        "source": null
+    },
+    {
+        "operator": "nla.tracks_add",
+        "source": null
+    },
+    {
+        "operator": "nla.tracks_delete",
+        "source": null
+    },
+    {
+        "operator": "nla.transition_add",
+        "source": null
+    },
+    {
+        "operator": "nla.tweakmode_enter",
+        "source": null
+    },
+    {
+        "operator": "nla.tweakmode_exit",
+        "source": null
+    },
+    {
+        "operator": "nla.view_all",
+        "source": null
+    },
+    {
+        "operator": "nla.view_frame",
+        "source": null
+    },
+    {
+        "operator": "nla.view_selected",
+        "source": null
+    },
+    {
+        "operator": "node.active_preview_toggle",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\node.py"
+    },
+    {
+        "operator": "node.add_and_link_node",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\node.py"
+    },
+    {
+        "operator": "node.add_collection",
+        "source": null
+    },
+    {
+        "operator": "node.add_file",
+        "source": null
+    },
+    {
+        "operator": "node.add_group",
+        "source": null
+    },
+    {
+        "operator": "node.add_mask",
+        "source": null
+    },
+    {
+        "operator": "node.add_node",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\node.py"
+    },
+    {
+        "operator": "node.add_object",
+        "source": null
+    },
+    {
+        "operator": "node.add_reroute",
+        "source": null
+    },
+    {
+        "operator": "node.add_search",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\node.py"
+    },
+    {
+        "operator": "node.add_texture",
+        "source": null
+    },
+    {
+        "operator": "node.attach",
+        "source": null
+    },
+    {
+        "operator": "node.backimage_fit",
+        "source": null
+    },
+    {
+        "operator": "node.backimage_move",
+        "source": null
+    },
+    {
+        "operator": "node.backimage_sample",
+        "source": null
+    },
+    {
+        "operator": "node.backimage_zoom",
+        "source": null
+    },
+    {
+        "operator": "node.clear_viewer_border",
+        "source": null
+    },
+    {
+        "operator": "node.clipboard_copy",
+        "source": null
+    },
+    {
+        "operator": "node.clipboard_paste",
+        "source": null
+    },
+    {
+        "operator": "node.collapse_hide_unused_toggle",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\node.py"
+    },
+    {
+        "operator": "node.copy_geometry_node_group_assign",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\geometry_nodes.py"
+    },
+    {
+        "operator": "node.cryptomatte_layer_add",
+        "source": null
+    },
+    {
+        "operator": "node.cryptomatte_layer_remove",
+        "source": null
+    },
+    {
+        "operator": "node.delete",
+        "source": null
+    },
+    {
+        "operator": "node.delete_reconnect",
+        "source": null
+    },
+    {
+        "operator": "node.detach",
+        "source": null
+    },
+    {
+        "operator": "node.detach_translate_attach",
+        "source": null
+    },
+    {
+        "operator": "node.duplicate",
+        "source": null
+    },
+    {
+        "operator": "node.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "node.duplicate_move_keep_inputs",
+        "source": null
+    },
+    {
+        "operator": "node.find_node",
+        "source": null
+    },
+    {
+        "operator": "node.group_edit",
+        "source": null
+    },
+    {
+        "operator": "node.group_insert",
+        "source": null
+    },
+    {
+        "operator": "node.group_make",
+        "source": null
+    },
+    {
+        "operator": "node.group_separate",
+        "source": null
+    },
+    {
+        "operator": "node.group_ungroup",
+        "source": null
+    },
+    {
+        "operator": "node.hide_socket_toggle",
+        "source": null
+    },
+    {
+        "operator": "node.hide_toggle",
+        "source": null
+    },
+    {
+        "operator": "node.insert_offset",
+        "source": null
+    },
+    {
+        "operator": "node.join",
+        "source": null
+    },
+    {
+        "operator": "node.link",
+        "source": null
+    },
+    {
+        "operator": "node.link_make",
+        "source": null
+    },
+    {
+        "operator": "node.link_viewer",
+        "source": null
+    },
+    {
+        "operator": "node.links_cut",
+        "source": null
+    },
+    {
+        "operator": "node.links_detach",
+        "source": null
+    },
+    {
+        "operator": "node.links_mute",
+        "source": null
+    },
+    {
+        "operator": "node.move_detach_links",
+        "source": null
+    },
+    {
+        "operator": "node.move_detach_links_release",
+        "source": null
+    },
+    {
+        "operator": "node.mute_toggle",
+        "source": null
+    },
+    {
+        "operator": "node.new_geometry_node_group_assign",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\geometry_nodes.py"
+    },
+    {
+        "operator": "node.new_geometry_nodes_modifier",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\geometry_nodes.py"
+    },
+    {
+        "operator": "node.new_node_tree",
+        "source": null
+    },
+    {
+        "operator": "node.node_color_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "node.node_copy_color",
+        "source": null
+    },
+    {
+        "operator": "node.options_toggle",
+        "source": null
+    },
+    {
+        "operator": "node.output_file_add_socket",
+        "source": null
+    },
+    {
+        "operator": "node.output_file_move_active_socket",
+        "source": null
+    },
+    {
+        "operator": "node.output_file_remove_active_socket",
+        "source": null
+    },
+    {
+        "operator": "node.parent_set",
+        "source": null
+    },
+    {
+        "operator": "node.preview_toggle",
+        "source": null
+    },
+    {
+        "operator": "node.read_viewlayers",
+        "source": null
+    },
+    {
+        "operator": "node.render_changed",
+        "source": null
+    },
+    {
+        "operator": "node.resize",
+        "source": null
+    },
+    {
+        "operator": "node.select",
+        "source": null
+    },
+    {
+        "operator": "node.select_all",
+        "source": null
+    },
+    {
+        "operator": "node.select_box",
+        "source": null
+    },
+    {
+        "operator": "node.select_circle",
+        "source": null
+    },
+    {
+        "operator": "node.select_grouped",
+        "source": null
+    },
+    {
+        "operator": "node.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "node.select_link_viewer",
+        "source": null
+    },
+    {
+        "operator": "node.select_linked_from",
+        "source": null
+    },
+    {
+        "operator": "node.select_linked_to",
+        "source": null
+    },
+    {
+        "operator": "node.select_same_type_step",
+        "source": null
+    },
+    {
+        "operator": "node.shader_script_update",
+        "source": null
+    },
+    {
+        "operator": "node.switch_view_update",
+        "source": null
+    },
+    {
+        "operator": "node.translate_attach",
+        "source": null
+    },
+    {
+        "operator": "node.translate_attach_remove_on_cancel",
+        "source": null
+    },
+    {
+        "operator": "node.tree_path_parent",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\node.py"
+    },
+    {
+        "operator": "node.tree_socket_add",
+        "source": null
+    },
+    {
+        "operator": "node.tree_socket_move",
+        "source": null
+    },
+    {
+        "operator": "node.tree_socket_remove",
+        "source": null
+    },
+    {
+        "operator": "node.view_all",
+        "source": null
+    },
+    {
+        "operator": "node.view_selected",
+        "source": null
+    },
+    {
+        "operator": "node.viewer_border",
+        "source": null
+    },
+    {
+        "operator": "object.add",
+        "source": null
+    },
+    {
+        "operator": "object.add_named",
+        "source": null
+    },
+    {
+        "operator": "object.addarrow",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\kuba_addon\\__init__.py"
+    },
+    {
+        "operator": "object.align",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object_align.py"
+    },
+    {
+        "operator": "object.anim_transforms_to_deltas",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.armature_add",
+        "source": null
+    },
+    {
+        "operator": "object.assign_property_defaults",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.bake",
+        "source": null
+    },
+    {
+        "operator": "object.bake_image",
+        "source": null
+    },
+    {
+        "operator": "object.bygen_add_skin_subsurf",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_apply_modifiers",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\tools.py"
+    },
+    {
+        "operator": "object.bygen_backup_generation_result",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\tools.py"
+    },
+    {
+        "operator": "object.bygen_clay_blob_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_clear_generation_result",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\tools.py"
+    },
+    {
+        "operator": "object.bygen_cubic_field_generate",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_hard_padding_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_hard_surface_faceting_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_hard_surface_frame_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_hard_surface_skin_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_hard_surface_skin_simple_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_import_city_circular",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\templates.py"
+    },
+    {
+        "operator": "object.bygen_import_city_rectangular",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\templates.py"
+    },
+    {
+        "operator": "object.bygen_import_template_mech",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\templates.py"
+    },
+    {
+        "operator": "object.bygen_import_template_space_station",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\templates.py"
+    },
+    {
+        "operator": "object.bygen_import_template_weapon",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\templates.py"
+    },
+    {
+        "operator": "object.bygen_invert_solidify",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\modify.py"
+    },
+    {
+        "operator": "object.bygen_mesh_displacement_import",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_mesh_parametric_import",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_mesh_parametric_import_template",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_mesh_structural_import",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_mesh_structural_import_template",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_meta_cloud_generate",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_metal_shell_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_midge_cell_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_modify",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\modify.py"
+    },
+    {
+        "operator": "object.bygen_open_depth_tool",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_organic_skin_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_pixelate_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_point_cloud_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_purge_textures",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\tools.py"
+    },
+    {
+        "operator": "object.bygen_refresh_effect_properties",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_scatter_city_circular",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\scatter.py"
+    },
+    {
+        "operator": "object.bygen_scatter_city_rectangular",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\scatter.py"
+    },
+    {
+        "operator": "object.bygen_single_vertex_object",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_spherical_field_generate",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_start_branched_generation",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\algorithms\\branched_generation.py"
+    },
+    {
+        "operator": "object.bygen_start_layered_generation",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\algorithms\\layered_generation.py"
+    },
+    {
+        "operator": "object.bygen_surface_effect_import",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_surface_effect_weight_paint",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.bygen_template_add",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\operators\\generate.py"
+    },
+    {
+        "operator": "object.bygen_volume_effect_import",
+        "source": "C:\\Users\\grzel\\AppData\\Roaming\\Blender Foundation\\Blender\\2.93\\scripts\\addons\\BY-GEN-public\\effects.py"
+    },
+    {
+        "operator": "object.camera_add",
+        "source": null
+    },
+    {
+        "operator": "object.collection_add",
+        "source": null
+    },
+    {
+        "operator": "object.collection_instance_add",
+        "source": null
+    },
+    {
+        "operator": "object.collection_link",
+        "source": null
+    },
+    {
+        "operator": "object.collection_objects_select",
+        "source": null
+    },
+    {
+        "operator": "object.collection_remove",
+        "source": null
+    },
+    {
+        "operator": "object.collection_unlink",
+        "source": null
+    },
+    {
+        "operator": "object.constraint_add",
+        "source": null
+    },
+    {
+        "operator": "object.constraint_add_with_targets",
+        "source": null
+    },
+    {
+        "operator": "object.constraints_clear",
+        "source": null
+    },
+    {
+        "operator": "object.constraints_copy",
+        "source": null
+    },
+    {
+        "operator": "object.convert",
+        "source": null
+    },
+    {
+        "operator": "object.convert_proxy_to_override",
+        "source": null
+    },
+    {
+        "operator": "object.correctivesmooth_bind",
+        "source": null
+    },
+    {
+        "operator": "object.data_instance_add",
+        "source": null
+    },
+    {
+        "operator": "object.data_transfer",
+        "source": null
+    },
+    {
+        "operator": "object.datalayout_transfer",
+        "source": null
+    },
+    {
+        "operator": "object.delete",
+        "source": null
+    },
+    {
+        "operator": "object.drop_named_image",
+        "source": null
+    },
+    {
+        "operator": "object.drop_named_material",
+        "source": null
+    },
+    {
+        "operator": "object.duplicate",
+        "source": null
+    },
+    {
+        "operator": "object.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "object.duplicate_move_linked",
+        "source": null
+    },
+    {
+        "operator": "object.duplicates_make_real",
+        "source": null
+    },
+    {
+        "operator": "object.editmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "object.effector_add",
+        "source": null
+    },
+    {
+        "operator": "object.empty_add",
+        "source": null
+    },
+    {
+        "operator": "object.explode_refresh",
+        "source": null
+    },
+    {
+        "operator": "object.face_map_add",
+        "source": null
+    },
+    {
+        "operator": "object.face_map_assign",
+        "source": null
+    },
+    {
+        "operator": "object.face_map_deselect",
+        "source": null
+    },
+    {
+        "operator": "object.face_map_move",
+        "source": null
+    },
+    {
+        "operator": "object.face_map_remove",
+        "source": null
+    },
+    {
+        "operator": "object.face_map_remove_from",
+        "source": null
+    },
+    {
+        "operator": "object.face_map_select",
+        "source": null
+    },
+    {
+        "operator": "object.forcefield_toggle",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_add",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_add",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_apply",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_copy",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_copy_to_selected",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_move_down",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_move_to_index",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_move_up",
+        "source": null
+    },
+    {
+        "operator": "object.gpencil_modifier_remove",
+        "source": null
+    },
+    {
+        "operator": "object.hair_add",
+        "source": null
+    },
+    {
+        "operator": "object.hide_collection",
+        "source": null
+    },
+    {
+        "operator": "object.hide_render_clear_all",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.hide_view_clear",
+        "source": null
+    },
+    {
+        "operator": "object.hide_view_set",
+        "source": null
+    },
+    {
+        "operator": "object.hook_add_newob",
+        "source": null
+    },
+    {
+        "operator": "object.hook_add_selob",
+        "source": null
+    },
+    {
+        "operator": "object.hook_assign",
+        "source": null
+    },
+    {
+        "operator": "object.hook_recenter",
+        "source": null
+    },
+    {
+        "operator": "object.hook_remove",
+        "source": null
+    },
+    {
+        "operator": "object.hook_reset",
+        "source": null
+    },
+    {
+        "operator": "object.hook_select",
+        "source": null
+    },
+    {
+        "operator": "object.instance_offset_from_cursor",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.isolate_type_render",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.join",
+        "source": null
+    },
+    {
+        "operator": "object.join_shapes",
+        "source": null
+    },
+    {
+        "operator": "object.join_uvs",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.laplaciandeform_bind",
+        "source": null
+    },
+    {
+        "operator": "object.light_add",
+        "source": null
+    },
+    {
+        "operator": "object.lightprobe_add",
+        "source": null
+    },
+    {
+        "operator": "object.lineart_bake_strokes",
+        "source": null
+    },
+    {
+        "operator": "object.lineart_bake_strokes_all",
+        "source": null
+    },
+    {
+        "operator": "object.lineart_clear",
+        "source": null
+    },
+    {
+        "operator": "object.lineart_clear_all",
+        "source": null
+    },
+    {
+        "operator": "object.link_to_collection",
+        "source": null
+    },
+    {
+        "operator": "object.load_background_image",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.load_reference_image",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.location_clear",
+        "source": null
+    },
+    {
+        "operator": "object.make_dupli_face",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.make_links_data",
+        "source": null
+    },
+    {
+        "operator": "object.make_links_scene",
+        "source": null
+    },
+    {
+        "operator": "object.make_local",
+        "source": null
+    },
+    {
+        "operator": "object.make_override_library",
+        "source": null
+    },
+    {
+        "operator": "object.make_single_user",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_add",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_assign",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_copy",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_deselect",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_move",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_remove",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_remove_unused",
+        "source": null
+    },
+    {
+        "operator": "object.material_slot_select",
+        "source": null
+    },
+    {
+        "operator": "object.meshdeform_bind",
+        "source": null
+    },
+    {
+        "operator": "object.metaball_add",
+        "source": null
+    },
+    {
+        "operator": "object.mode_set",
+        "source": null
+    },
+    {
+        "operator": "object.mode_set_with_submode",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_add",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_apply",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_apply_as_shapekey",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_convert",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_copy",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_copy_to_selected",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_move_down",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_move_to_index",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_move_up",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_remove",
+        "source": null
+    },
+    {
+        "operator": "object.modifier_set_active",
+        "source": null
+    },
+    {
+        "operator": "object.move_to_collection",
+        "source": null
+    },
+    {
+        "operator": "object.multires_base_apply",
+        "source": null
+    },
+    {
+        "operator": "object.multires_external_pack",
+        "source": null
+    },
+    {
+        "operator": "object.multires_external_save",
+        "source": null
+    },
+    {
+        "operator": "object.multires_higher_levels_delete",
+        "source": null
+    },
+    {
+        "operator": "object.multires_rebuild_subdiv",
+        "source": null
+    },
+    {
+        "operator": "object.multires_reshape",
+        "source": null
+    },
+    {
+        "operator": "object.multires_subdivide",
+        "source": null
+    },
+    {
+        "operator": "object.multires_unsubdivide",
+        "source": null
+    },
+    {
+        "operator": "object.ocean_bake",
+        "source": null
+    },
+    {
+        "operator": "object.origin_clear",
+        "source": null
+    },
+    {
+        "operator": "object.origin_set",
+        "source": null
+    },
+    {
+        "operator": "object.parent_clear",
+        "source": null
+    },
+    {
+        "operator": "object.parent_no_inverse_set",
+        "source": null
+    },
+    {
+        "operator": "object.parent_set",
+        "source": null
+    },
+    {
+        "operator": "object.particle_system_add",
+        "source": null
+    },
+    {
+        "operator": "object.particle_system_remove",
+        "source": null
+    },
+    {
+        "operator": "object.paths_calculate",
+        "source": null
+    },
+    {
+        "operator": "object.paths_clear",
+        "source": null
+    },
+    {
+        "operator": "object.paths_range_update",
+        "source": null
+    },
+    {
+        "operator": "object.paths_update",
+        "source": null
+    },
+    {
+        "operator": "object.pointcloud_add",
+        "source": null
+    },
+    {
+        "operator": "object.posemode_toggle",
+        "source": null
+    },
+    {
+        "operator": "object.proxy_make",
+        "source": null
+    },
+    {
+        "operator": "object.quadriflow_remesh",
+        "source": null
+    },
+    {
+        "operator": "object.quick_explode",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object_quick_effects.py"
+    },
+    {
+        "operator": "object.quick_fur",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object_quick_effects.py"
+    },
+    {
+        "operator": "object.quick_liquid",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object_quick_effects.py"
+    },
+    {
+        "operator": "object.quick_smoke",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object_quick_effects.py"
+    },
+    {
+        "operator": "object.randomize_transform",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object_randomize_transform.py"
+    },
+    {
+        "operator": "object.rotation_clear",
+        "source": null
+    },
+    {
+        "operator": "object.scale_clear",
+        "source": null
+    },
+    {
+        "operator": "object.select_all",
+        "source": null
+    },
+    {
+        "operator": "object.select_by_type",
+        "source": null
+    },
+    {
+        "operator": "object.select_camera",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.select_grouped",
+        "source": null
+    },
+    {
+        "operator": "object.select_hierarchy",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.select_less",
+        "source": null
+    },
+    {
+        "operator": "object.select_linked",
+        "source": null
+    },
+    {
+        "operator": "object.select_mirror",
+        "source": null
+    },
+    {
+        "operator": "object.select_more",
+        "source": null
+    },
+    {
+        "operator": "object.select_pattern",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.select_random",
+        "source": null
+    },
+    {
+        "operator": "object.select_same_collection",
+        "source": null
+    },
+    {
+        "operator": "object.shade_flat",
+        "source": null
+    },
+    {
+        "operator": "object.shade_smooth",
+        "source": null
+    },
+    {
+        "operator": "object.shaderfx_add",
+        "source": null
+    },
+    {
+        "operator": "object.shaderfx_copy",
+        "source": null
+    },
+    {
+        "operator": "object.shaderfx_move_down",
+        "source": null
+    },
+    {
+        "operator": "object.shaderfx_move_to_index",
+        "source": null
+    },
+    {
+        "operator": "object.shaderfx_move_up",
+        "source": null
+    },
+    {
+        "operator": "object.shaderfx_remove",
+        "source": null
+    },
+    {
+        "operator": "object.shape_key_add",
+        "source": null
+    },
+    {
+        "operator": "object.shape_key_clear",
+        "source": null
+    },
+    {
+        "operator": "object.shape_key_mirror",
+        "source": null
+    },
+    {
+        "operator": "object.shape_key_move",
+        "source": null
+    },
+    {
+        "operator": "object.shape_key_remove",
+        "source": null
+    },
+    {
+        "operator": "object.shape_key_retime",
+        "source": null
+    },
+    {
+        "operator": "object.shape_key_transfer",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.skin_armature_create",
+        "source": null
+    },
+    {
+        "operator": "object.skin_loose_mark_clear",
+        "source": null
+    },
+    {
+        "operator": "object.skin_radii_equalize",
+        "source": null
+    },
+    {
+        "operator": "object.skin_root_mark",
+        "source": null
+    },
+    {
+        "operator": "object.speaker_add",
+        "source": null
+    },
+    {
+        "operator": "object.subdivision_set",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.surfacedeform_bind",
+        "source": null
+    },
+    {
+        "operator": "object.text_add",
+        "source": null
+    },
+    {
+        "operator": "object.track_clear",
+        "source": null
+    },
+    {
+        "operator": "object.track_set",
+        "source": null
+    },
+    {
+        "operator": "object.transfer_mode",
+        "source": null
+    },
+    {
+        "operator": "object.transform_apply",
+        "source": null
+    },
+    {
+        "operator": "object.transform_axis_target",
+        "source": null
+    },
+    {
+        "operator": "object.transforms_to_deltas",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\object.py"
+    },
+    {
+        "operator": "object.unlink_data",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_add",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_assign",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_assign_new",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_clean",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_copy",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_copy_to_linked",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_copy_to_selected",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_deselect",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_fix",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_invert",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_levels",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_limit_total",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_lock",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_mirror",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_move",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_normalize",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_normalize_all",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_quantize",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_remove",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_remove_from",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_select",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_set_active",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_smooth",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_group_sort",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_parent_set",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_weight_copy",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_weight_delete",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_weight_normalize_active_vertex",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_weight_paste",
+        "source": null
+    },
+    {
+        "operator": "object.vertex_weight_set_active",
+        "source": null
+    },
+    {
+        "operator": "object.visual_transform_apply",
+        "source": null
+    },
+    {
+        "operator": "object.volume_add",
+        "source": null
+    },
+    {
+        "operator": "object.volume_import",
+        "source": null
+    },
+    {
+        "operator": "object.voxel_remesh",
+        "source": null
+    },
+    {
+        "operator": "object.voxel_size_edit",
+        "source": null
+    },
+    {
+        "operator": "outliner.action_set",
+        "source": null
+    },
+    {
+        "operator": "outliner.animdata_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_color_tag_set",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_disable",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_disable_render",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_drop",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_duplicate",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_duplicate_linked",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_enable",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_enable_render",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_exclude_clear",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_exclude_set",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_hide",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_hide_inside",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_hierarchy_delete",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_holdout_clear",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_holdout_set",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_indirect_only_clear",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_indirect_only_set",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_instance",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_isolate",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_link",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_new",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_objects_deselect",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_objects_select",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_show",
+        "source": null
+    },
+    {
+        "operator": "outliner.collection_show_inside",
+        "source": null
+    },
+    {
+        "operator": "outliner.constraint_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.data_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.datastack_drop",
+        "source": null
+    },
+    {
+        "operator": "outliner.delete",
+        "source": null
+    },
+    {
+        "operator": "outliner.drivers_add_selected",
+        "source": null
+    },
+    {
+        "operator": "outliner.drivers_delete_selected",
+        "source": null
+    },
+    {
+        "operator": "outliner.expanded_toggle",
+        "source": null
+    },
+    {
+        "operator": "outliner.hide",
+        "source": null
+    },
+    {
+        "operator": "outliner.highlight_update",
+        "source": null
+    },
+    {
+        "operator": "outliner.id_copy",
+        "source": null
+    },
+    {
+        "operator": "outliner.id_delete",
+        "source": null
+    },
+    {
+        "operator": "outliner.id_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.id_paste",
+        "source": null
+    },
+    {
+        "operator": "outliner.id_remap",
+        "source": null
+    },
+    {
+        "operator": "outliner.item_activate",
+        "source": null
+    },
+    {
+        "operator": "outliner.item_drag_drop",
+        "source": null
+    },
+    {
+        "operator": "outliner.item_openclose",
+        "source": null
+    },
+    {
+        "operator": "outliner.item_rename",
+        "source": null
+    },
+    {
+        "operator": "outliner.keyingset_add_selected",
+        "source": null
+    },
+    {
+        "operator": "outliner.keyingset_remove_selected",
+        "source": null
+    },
+    {
+        "operator": "outliner.lib_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.lib_relocate",
+        "source": null
+    },
+    {
+        "operator": "outliner.material_drop",
+        "source": null
+    },
+    {
+        "operator": "outliner.modifier_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.object_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.orphans_purge",
+        "source": null
+    },
+    {
+        "operator": "outliner.parent_clear",
+        "source": null
+    },
+    {
+        "operator": "outliner.parent_drop",
+        "source": null
+    },
+    {
+        "operator": "outliner.scene_drop",
+        "source": null
+    },
+    {
+        "operator": "outliner.scene_operation",
+        "source": null
+    },
+    {
+        "operator": "outliner.scroll_page",
+        "source": null
+    },
+    {
+        "operator": "outliner.select_all",
+        "source": null
+    },
+    {
+        "operator": "outliner.select_box",
+        "source": null
+    },
+    {
+        "operator": "outliner.select_walk",
+        "source": null
+    },
+    {
+        "operator": "outliner.show_active",
+        "source": null
+    },
+    {
+        "operator": "outliner.show_hierarchy",
+        "source": null
+    },
+    {
+        "operator": "outliner.show_one_level",
+        "source": null
+    },
+    {
+        "operator": "outliner.unhide_all",
+        "source": null
+    },
+    {
+        "operator": "paint.add_simple_uvs",
+        "source": null
+    },
+    {
+        "operator": "paint.add_texture_paint_slot",
+        "source": null
+    },
+    {
+        "operator": "paint.brush_colors_flip",
+        "source": null
+    },
+    {
+        "operator": "paint.brush_select",
+        "source": null
+    },
+    {
+        "operator": "paint.face_select_all",
+        "source": null
+    },
+    {
+        "operator": "paint.face_select_hide",
+        "source": null
+    },
+    {
+        "operator": "paint.face_select_linked",
+        "source": null
+    },
+    {
+        "operator": "paint.face_select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "paint.face_select_reveal",
+        "source": null
+    },
+    {
+        "operator": "paint.grab_clone",
+        "source": null
+    },
+    {
+        "operator": "paint.hide_show",
+        "source": null
+    },
+    {
+        "operator": "paint.image_from_view",
+        "source": null
+    },
+    {
+        "operator": "paint.image_paint",
+        "source": null
+    },
+    {
+        "operator": "paint.mask_box_gesture",
+        "source": null
+    },
+    {
+        "operator": "paint.mask_flood_fill",
+        "source": null
+    },
+    {
+        "operator": "paint.mask_lasso_gesture",
+        "source": null
+    },
+    {
+        "operator": "paint.mask_line_gesture",
+        "source": null
+    },
+    {
+        "operator": "paint.project_image",
+        "source": null
+    },
+    {
+        "operator": "paint.sample_color",
+        "source": null
+    },
+    {
+        "operator": "paint.texture_paint_toggle",
+        "source": null
+    },
+    {
+        "operator": "paint.vert_select_all",
+        "source": null
+    },
+    {
+        "operator": "paint.vert_select_ungrouped",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_color_brightness_contrast",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_color_dirt",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\vertexpaint_dirt.py"
+    },
+    {
+        "operator": "paint.vertex_color_from_weight",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_color_hsv",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_color_invert",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_color_levels",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_color_set",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_color_smooth",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_paint",
+        "source": null
+    },
+    {
+        "operator": "paint.vertex_paint_toggle",
+        "source": null
+    },
+    {
+        "operator": "paint.weight_from_bones",
+        "source": null
+    },
+    {
+        "operator": "paint.weight_gradient",
+        "source": null
+    },
+    {
+        "operator": "paint.weight_paint",
+        "source": null
+    },
+    {
+        "operator": "paint.weight_paint_toggle",
+        "source": null
+    },
+    {
+        "operator": "paint.weight_sample",
+        "source": null
+    },
+    {
+        "operator": "paint.weight_sample_group",
+        "source": null
+    },
+    {
+        "operator": "paint.weight_set",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.add_point",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.add_point_slide",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.cursor",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.delete_point",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.draw",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.new",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.select",
+        "source": null
+    },
+    {
+        "operator": "paintcurve.slide",
+        "source": null
+    },
+    {
+        "operator": "palette.color_add",
+        "source": null
+    },
+    {
+        "operator": "palette.color_delete",
+        "source": null
+    },
+    {
+        "operator": "palette.color_move",
+        "source": null
+    },
+    {
+        "operator": "palette.extract_from_image",
+        "source": null
+    },
+    {
+        "operator": "palette.join",
+        "source": null
+    },
+    {
+        "operator": "palette.new",
+        "source": null
+    },
+    {
+        "operator": "palette.sort",
+        "source": null
+    },
+    {
+        "operator": "particle.brush_edit",
+        "source": null
+    },
+    {
+        "operator": "particle.connect_hair",
+        "source": null
+    },
+    {
+        "operator": "particle.copy_particle_systems",
+        "source": null
+    },
+    {
+        "operator": "particle.delete",
+        "source": null
+    },
+    {
+        "operator": "particle.disconnect_hair",
+        "source": null
+    },
+    {
+        "operator": "particle.duplicate_particle_system",
+        "source": null
+    },
+    {
+        "operator": "particle.dupliob_copy",
+        "source": null
+    },
+    {
+        "operator": "particle.dupliob_move_down",
+        "source": null
+    },
+    {
+        "operator": "particle.dupliob_move_up",
+        "source": null
+    },
+    {
+        "operator": "particle.dupliob_refresh",
+        "source": null
+    },
+    {
+        "operator": "particle.dupliob_remove",
+        "source": null
+    },
+    {
+        "operator": "particle.edited_clear",
+        "source": null
+    },
+    {
+        "operator": "particle.hair_dynamics_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "particle.hide",
+        "source": null
+    },
+    {
+        "operator": "particle.mirror",
+        "source": null
+    },
+    {
+        "operator": "particle.new",
+        "source": null
+    },
+    {
+        "operator": "particle.new_target",
+        "source": null
+    },
+    {
+        "operator": "particle.particle_edit_toggle",
+        "source": null
+    },
+    {
+        "operator": "particle.rekey",
+        "source": null
+    },
+    {
+        "operator": "particle.remove_doubles",
+        "source": null
+    },
+    {
+        "operator": "particle.reveal",
+        "source": null
+    },
+    {
+        "operator": "particle.select_all",
+        "source": null
+    },
+    {
+        "operator": "particle.select_less",
+        "source": null
+    },
+    {
+        "operator": "particle.select_linked",
+        "source": null
+    },
+    {
+        "operator": "particle.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "particle.select_more",
+        "source": null
+    },
+    {
+        "operator": "particle.select_random",
+        "source": null
+    },
+    {
+        "operator": "particle.select_roots",
+        "source": null
+    },
+    {
+        "operator": "particle.select_tips",
+        "source": null
+    },
+    {
+        "operator": "particle.shape_cut",
+        "source": null
+    },
+    {
+        "operator": "particle.subdivide",
+        "source": null
+    },
+    {
+        "operator": "particle.target_move_down",
+        "source": null
+    },
+    {
+        "operator": "particle.target_move_up",
+        "source": null
+    },
+    {
+        "operator": "particle.target_remove",
+        "source": null
+    },
+    {
+        "operator": "particle.unify_length",
+        "source": null
+    },
+    {
+        "operator": "particle.weight_set",
+        "source": null
+    },
+    {
+        "operator": "pose.armature_apply",
+        "source": null
+    },
+    {
+        "operator": "pose.autoside_names",
+        "source": null
+    },
+    {
+        "operator": "pose.bone_layers",
+        "source": null
+    },
+    {
+        "operator": "pose.breakdown",
+        "source": null
+    },
+    {
+        "operator": "pose.constraint_add",
+        "source": null
+    },
+    {
+        "operator": "pose.constraint_add_with_targets",
+        "source": null
+    },
+    {
+        "operator": "pose.constraints_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.constraints_copy",
+        "source": null
+    },
+    {
+        "operator": "pose.copy",
+        "source": null
+    },
+    {
+        "operator": "pose.flip_names",
+        "source": null
+    },
+    {
+        "operator": "pose.group_add",
+        "source": null
+    },
+    {
+        "operator": "pose.group_assign",
+        "source": null
+    },
+    {
+        "operator": "pose.group_deselect",
+        "source": null
+    },
+    {
+        "operator": "pose.group_move",
+        "source": null
+    },
+    {
+        "operator": "pose.group_remove",
+        "source": null
+    },
+    {
+        "operator": "pose.group_select",
+        "source": null
+    },
+    {
+        "operator": "pose.group_sort",
+        "source": null
+    },
+    {
+        "operator": "pose.group_unassign",
+        "source": null
+    },
+    {
+        "operator": "pose.hide",
+        "source": null
+    },
+    {
+        "operator": "pose.ik_add",
+        "source": null
+    },
+    {
+        "operator": "pose.ik_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.loc_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.paste",
+        "source": null
+    },
+    {
+        "operator": "pose.paths_calculate",
+        "source": null
+    },
+    {
+        "operator": "pose.paths_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.paths_range_update",
+        "source": null
+    },
+    {
+        "operator": "pose.paths_update",
+        "source": null
+    },
+    {
+        "operator": "pose.propagate",
+        "source": null
+    },
+    {
+        "operator": "pose.push",
+        "source": null
+    },
+    {
+        "operator": "pose.push_rest",
+        "source": null
+    },
+    {
+        "operator": "pose.quaternions_flip",
+        "source": null
+    },
+    {
+        "operator": "pose.relax",
+        "source": null
+    },
+    {
+        "operator": "pose.relax_rest",
+        "source": null
+    },
+    {
+        "operator": "pose.reveal",
+        "source": null
+    },
+    {
+        "operator": "pose.rot_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.rotation_mode_set",
+        "source": null
+    },
+    {
+        "operator": "pose.scale_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.select_all",
+        "source": null
+    },
+    {
+        "operator": "pose.select_constraint_target",
+        "source": null
+    },
+    {
+        "operator": "pose.select_grouped",
+        "source": null
+    },
+    {
+        "operator": "pose.select_hierarchy",
+        "source": null
+    },
+    {
+        "operator": "pose.select_linked",
+        "source": null
+    },
+    {
+        "operator": "pose.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "pose.select_mirror",
+        "source": null
+    },
+    {
+        "operator": "pose.select_parent",
+        "source": null
+    },
+    {
+        "operator": "pose.transforms_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.user_transforms_clear",
+        "source": null
+    },
+    {
+        "operator": "pose.visual_transform_apply",
+        "source": null
+    },
+    {
+        "operator": "poselib.action_sanitize",
+        "source": null
+    },
+    {
+        "operator": "poselib.apply_pose",
+        "source": null
+    },
+    {
+        "operator": "poselib.browse_interactive",
+        "source": null
+    },
+    {
+        "operator": "poselib.new",
+        "source": null
+    },
+    {
+        "operator": "poselib.pose_add",
+        "source": null
+    },
+    {
+        "operator": "poselib.pose_move",
+        "source": null
+    },
+    {
+        "operator": "poselib.pose_remove",
+        "source": null
+    },
+    {
+        "operator": "poselib.pose_rename",
+        "source": null
+    },
+    {
+        "operator": "poselib.unlink",
+        "source": null
+    },
+    {
+        "operator": "preferences.addon_disable",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.addon_enable",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.addon_expand",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.addon_install",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.addon_refresh",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.addon_remove",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.addon_show",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.app_template_install",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.asset_library_add",
+        "source": null
+    },
+    {
+        "operator": "preferences.asset_library_remove",
+        "source": null
+    },
+    {
+        "operator": "preferences.autoexec_path_add",
+        "source": null
+    },
+    {
+        "operator": "preferences.autoexec_path_remove",
+        "source": null
+    },
+    {
+        "operator": "preferences.copy_prev",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyconfig_activate",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyconfig_export",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyconfig_import",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyconfig_remove",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyconfig_test",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyitem_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyitem_remove",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keyitem_restore",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.keymap_restore",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.reset_default_theme",
+        "source": null
+    },
+    {
+        "operator": "preferences.studiolight_copy_settings",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.studiolight_install",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.studiolight_new",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.studiolight_show",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.studiolight_uninstall",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "preferences.theme_install",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\userpref.py"
+    },
+    {
+        "operator": "ptcache.add",
+        "source": null
+    },
+    {
+        "operator": "ptcache.bake",
+        "source": null
+    },
+    {
+        "operator": "ptcache.bake_all",
+        "source": null
+    },
+    {
+        "operator": "ptcache.bake_from_cache",
+        "source": null
+    },
+    {
+        "operator": "ptcache.free_bake",
+        "source": null
+    },
+    {
+        "operator": "ptcache.free_bake_all",
+        "source": null
+    },
+    {
+        "operator": "ptcache.remove",
+        "source": null
+    },
+    {
+        "operator": "render.cycles_integrator_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\addons\\cycles\\presets.py"
+    },
+    {
+        "operator": "render.cycles_sampling_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\addons\\cycles\\presets.py"
+    },
+    {
+        "operator": "render.opengl",
+        "source": null
+    },
+    {
+        "operator": "render.play_rendered_anim",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\screen_play_rendered_anim.py"
+    },
+    {
+        "operator": "render.preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "render.render",
+        "source": null
+    },
+    {
+        "operator": "render.shutter_curve_preset",
+        "source": null
+    },
+    {
+        "operator": "render.view_cancel",
+        "source": null
+    },
+    {
+        "operator": "render.view_show",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.bake_to_keyframes",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\rigidbody.py"
+    },
+    {
+        "operator": "rigidbody.connect",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\rigidbody.py"
+    },
+    {
+        "operator": "rigidbody.constraint_add",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.constraint_remove",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.mass_calculate",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.object_add",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.object_remove",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.object_settings_copy",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\rigidbody.py"
+    },
+    {
+        "operator": "rigidbody.objects_add",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.objects_remove",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.shape_change",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.world_add",
+        "source": null
+    },
+    {
+        "operator": "rigidbody.world_remove",
+        "source": null
+    },
+    {
+        "operator": "safe_areas.preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "scene.delete",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_add_edge_marks_to_keying_set",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\freestyle.py"
+    },
+    {
+        "operator": "scene.freestyle_add_face_marks_to_keying_set",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\freestyle.py"
+    },
+    {
+        "operator": "scene.freestyle_alpha_modifier_add",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_color_modifier_add",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_fill_range_by_selection",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\freestyle.py"
+    },
+    {
+        "operator": "scene.freestyle_geometry_modifier_add",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_lineset_add",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_lineset_copy",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_lineset_move",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_lineset_paste",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_lineset_remove",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_linestyle_new",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_modifier_copy",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_modifier_move",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_modifier_remove",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_module_add",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_module_move",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_module_open",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\freestyle.py"
+    },
+    {
+        "operator": "scene.freestyle_module_remove",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_stroke_material_create",
+        "source": null
+    },
+    {
+        "operator": "scene.freestyle_thickness_modifier_add",
+        "source": null
+    },
+    {
+        "operator": "scene.gpencil_brush_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "scene.gpencil_material_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "scene.light_cache_bake",
+        "source": null
+    },
+    {
+        "operator": "scene.light_cache_free",
+        "source": null
+    },
+    {
+        "operator": "scene.new",
+        "source": null
+    },
+    {
+        "operator": "scene.render_view_add",
+        "source": null
+    },
+    {
+        "operator": "scene.render_view_remove",
+        "source": null
+    },
+    {
+        "operator": "scene.view_layer_add",
+        "source": null
+    },
+    {
+        "operator": "scene.view_layer_add_aov",
+        "source": null
+    },
+    {
+        "operator": "scene.view_layer_remove",
+        "source": null
+    },
+    {
+        "operator": "scene.view_layer_remove_aov",
+        "source": null
+    },
+    {
+        "operator": "screen.actionzone",
+        "source": null
+    },
+    {
+        "operator": "screen.animation_cancel",
+        "source": null
+    },
+    {
+        "operator": "screen.animation_play",
+        "source": null
+    },
+    {
+        "operator": "screen.animation_step",
+        "source": null
+    },
+    {
+        "operator": "screen.area_dupli",
+        "source": null
+    },
+    {
+        "operator": "screen.area_join",
+        "source": null
+    },
+    {
+        "operator": "screen.area_move",
+        "source": null
+    },
+    {
+        "operator": "screen.area_options",
+        "source": null
+    },
+    {
+        "operator": "screen.area_split",
+        "source": null
+    },
+    {
+        "operator": "screen.area_swap",
+        "source": null
+    },
+    {
+        "operator": "screen.back_to_previous",
+        "source": null
+    },
+    {
+        "operator": "screen.delete",
+        "source": null
+    },
+    {
+        "operator": "screen.drivers_editor_show",
+        "source": null
+    },
+    {
+        "operator": "screen.frame_jump",
+        "source": null
+    },
+    {
+        "operator": "screen.frame_offset",
+        "source": null
+    },
+    {
+        "operator": "screen.header_toggle_menus",
+        "source": null
+    },
+    {
+        "operator": "screen.info_log_show",
+        "source": null
+    },
+    {
+        "operator": "screen.keyframe_jump",
+        "source": null
+    },
+    {
+        "operator": "screen.marker_jump",
+        "source": null
+    },
+    {
+        "operator": "screen.new",
+        "source": null
+    },
+    {
+        "operator": "screen.redo_last",
+        "source": null
+    },
+    {
+        "operator": "screen.region_blend",
+        "source": null
+    },
+    {
+        "operator": "screen.region_context_menu",
+        "source": null
+    },
+    {
+        "operator": "screen.region_flip",
+        "source": null
+    },
+    {
+        "operator": "screen.region_quadview",
+        "source": null
+    },
+    {
+        "operator": "screen.region_scale",
+        "source": null
+    },
+    {
+        "operator": "screen.region_toggle",
+        "source": null
+    },
+    {
+        "operator": "screen.repeat_history",
+        "source": null
+    },
+    {
+        "operator": "screen.repeat_last",
+        "source": null
+    },
+    {
+        "operator": "screen.screen_full_area",
+        "source": null
+    },
+    {
+        "operator": "screen.screen_set",
+        "source": null
+    },
+    {
+        "operator": "screen.screenshot",
+        "source": null
+    },
+    {
+        "operator": "screen.space_context_cycle",
+        "source": null
+    },
+    {
+        "operator": "screen.space_type_set_or_cycle",
+        "source": null
+    },
+    {
+        "operator": "screen.spacedata_cleanup",
+        "source": null
+    },
+    {
+        "operator": "screen.userpref_show",
+        "source": null
+    },
+    {
+        "operator": "screen.workspace_cycle",
+        "source": null
+    },
+    {
+        "operator": "script.execute_preset",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "script.python_file_run",
+        "source": null
+    },
+    {
+        "operator": "script.reload",
+        "source": null
+    },
+    {
+        "operator": "sculpt.brush_stroke",
+        "source": null
+    },
+    {
+        "operator": "sculpt.cloth_filter",
+        "source": null
+    },
+    {
+        "operator": "sculpt.color_filter",
+        "source": null
+    },
+    {
+        "operator": "sculpt.detail_flood_fill",
+        "source": null
+    },
+    {
+        "operator": "sculpt.dirty_mask",
+        "source": null
+    },
+    {
+        "operator": "sculpt.dynamic_topology_toggle",
+        "source": null
+    },
+    {
+        "operator": "sculpt.dyntopo_detail_size_edit",
+        "source": null
+    },
+    {
+        "operator": "sculpt.expand",
+        "source": null
+    },
+    {
+        "operator": "sculpt.face_set_box_gesture",
+        "source": null
+    },
+    {
+        "operator": "sculpt.face_set_change_visibility",
+        "source": null
+    },
+    {
+        "operator": "sculpt.face_set_edit",
+        "source": null
+    },
+    {
+        "operator": "sculpt.face_set_lasso_gesture",
+        "source": null
+    },
+    {
+        "operator": "sculpt.face_sets_create",
+        "source": null
+    },
+    {
+        "operator": "sculpt.face_sets_init",
+        "source": null
+    },
+    {
+        "operator": "sculpt.face_sets_randomize_colors",
+        "source": null
+    },
+    {
+        "operator": "sculpt.loop_to_vertex_colors",
+        "source": null
+    },
+    {
+        "operator": "sculpt.mask_by_color",
+        "source": null
+    },
+    {
+        "operator": "sculpt.mask_expand",
+        "source": null
+    },
+    {
+        "operator": "sculpt.mask_filter",
+        "source": null
+    },
+    {
+        "operator": "sculpt.mask_init",
+        "source": null
+    },
+    {
+        "operator": "sculpt.mesh_filter",
+        "source": null
+    },
+    {
+        "operator": "sculpt.optimize",
+        "source": null
+    },
+    {
+        "operator": "sculpt.project_line_gesture",
+        "source": null
+    },
+    {
+        "operator": "sculpt.sample_color",
+        "source": null
+    },
+    {
+        "operator": "sculpt.sample_detail_size",
+        "source": null
+    },
+    {
+        "operator": "sculpt.sculptmode_toggle",
+        "source": null
+    },
+    {
+        "operator": "sculpt.set_detail_size",
+        "source": null
+    },
+    {
+        "operator": "sculpt.set_persistent_base",
+        "source": null
+    },
+    {
+        "operator": "sculpt.set_pivot_position",
+        "source": null
+    },
+    {
+        "operator": "sculpt.symmetrize",
+        "source": null
+    },
+    {
+        "operator": "sculpt.trim_box_gesture",
+        "source": null
+    },
+    {
+        "operator": "sculpt.trim_lasso_gesture",
+        "source": null
+    },
+    {
+        "operator": "sculpt.uv_sculpt_stroke",
+        "source": null
+    },
+    {
+        "operator": "sculpt.vertex_to_loop_colors",
+        "source": null
+    },
+    {
+        "operator": "sequencer.change_effect_input",
+        "source": null
+    },
+    {
+        "operator": "sequencer.change_effect_type",
+        "source": null
+    },
+    {
+        "operator": "sequencer.change_path",
+        "source": null
+    },
+    {
+        "operator": "sequencer.copy",
+        "source": null
+    },
+    {
+        "operator": "sequencer.crossfade_sounds",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\sequencer.py"
+    },
+    {
+        "operator": "sequencer.deinterlace_selected_movies",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\sequencer.py"
+    },
+    {
+        "operator": "sequencer.delete",
+        "source": null
+    },
+    {
+        "operator": "sequencer.duplicate",
+        "source": null
+    },
+    {
+        "operator": "sequencer.duplicate_move",
+        "source": null
+    },
+    {
+        "operator": "sequencer.effect_strip_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.enable_proxies",
+        "source": null
+    },
+    {
+        "operator": "sequencer.export_subtitles",
+        "source": null
+    },
+    {
+        "operator": "sequencer.fades_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\sequencer.py"
+    },
+    {
+        "operator": "sequencer.fades_clear",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\sequencer.py"
+    },
+    {
+        "operator": "sequencer.gap_insert",
+        "source": null
+    },
+    {
+        "operator": "sequencer.gap_remove",
+        "source": null
+    },
+    {
+        "operator": "sequencer.image_strip_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.images_separate",
+        "source": null
+    },
+    {
+        "operator": "sequencer.lock",
+        "source": null
+    },
+    {
+        "operator": "sequencer.mask_strip_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.meta_make",
+        "source": null
+    },
+    {
+        "operator": "sequencer.meta_separate",
+        "source": null
+    },
+    {
+        "operator": "sequencer.meta_toggle",
+        "source": null
+    },
+    {
+        "operator": "sequencer.movie_strip_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.movieclip_strip_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.mute",
+        "source": null
+    },
+    {
+        "operator": "sequencer.offset_clear",
+        "source": null
+    },
+    {
+        "operator": "sequencer.paste",
+        "source": null
+    },
+    {
+        "operator": "sequencer.reassign_inputs",
+        "source": null
+    },
+    {
+        "operator": "sequencer.rebuild_proxy",
+        "source": null
+    },
+    {
+        "operator": "sequencer.refresh_all",
+        "source": null
+    },
+    {
+        "operator": "sequencer.reload",
+        "source": null
+    },
+    {
+        "operator": "sequencer.rendersize",
+        "source": null
+    },
+    {
+        "operator": "sequencer.sample",
+        "source": null
+    },
+    {
+        "operator": "sequencer.scene_strip_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_all",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_box",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_grouped",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_handles",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_less",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_linked",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_more",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_side",
+        "source": null
+    },
+    {
+        "operator": "sequencer.select_side_of_frame",
+        "source": null
+    },
+    {
+        "operator": "sequencer.set_range_to_strips",
+        "source": null
+    },
+    {
+        "operator": "sequencer.slip",
+        "source": null
+    },
+    {
+        "operator": "sequencer.snap",
+        "source": null
+    },
+    {
+        "operator": "sequencer.sound_strip_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.split",
+        "source": null
+    },
+    {
+        "operator": "sequencer.split_multicam",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\sequencer.py"
+    },
+    {
+        "operator": "sequencer.strip_jump",
+        "source": null
+    },
+    {
+        "operator": "sequencer.strip_modifier_add",
+        "source": null
+    },
+    {
+        "operator": "sequencer.strip_modifier_copy",
+        "source": null
+    },
+    {
+        "operator": "sequencer.strip_modifier_move",
+        "source": null
+    },
+    {
+        "operator": "sequencer.strip_modifier_remove",
+        "source": null
+    },
+    {
+        "operator": "sequencer.strip_transform_clear",
+        "source": null
+    },
+    {
+        "operator": "sequencer.strip_transform_fit",
+        "source": null
+    },
+    {
+        "operator": "sequencer.swap",
+        "source": null
+    },
+    {
+        "operator": "sequencer.swap_data",
+        "source": null
+    },
+    {
+        "operator": "sequencer.swap_inputs",
+        "source": null
+    },
+    {
+        "operator": "sequencer.unlock",
+        "source": null
+    },
+    {
+        "operator": "sequencer.unmute",
+        "source": null
+    },
+    {
+        "operator": "sequencer.view_all",
+        "source": null
+    },
+    {
+        "operator": "sequencer.view_all_preview",
+        "source": null
+    },
+    {
+        "operator": "sequencer.view_frame",
+        "source": null
+    },
+    {
+        "operator": "sequencer.view_ghost_border",
+        "source": null
+    },
+    {
+        "operator": "sequencer.view_selected",
+        "source": null
+    },
+    {
+        "operator": "sequencer.view_zoom_ratio",
+        "source": null
+    },
+    {
+        "operator": "sound.bake_animation",
+        "source": null
+    },
+    {
+        "operator": "sound.mixdown",
+        "source": null
+    },
+    {
+        "operator": "sound.open",
+        "source": null
+    },
+    {
+        "operator": "sound.open_mono",
+        "source": null
+    },
+    {
+        "operator": "sound.pack",
+        "source": null
+    },
+    {
+        "operator": "sound.unpack",
+        "source": null
+    },
+    {
+        "operator": "sound.update_animation_flags",
+        "source": null
+    },
+    {
+        "operator": "spreadsheet.toggle_pin",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\spreadsheet.py"
+    },
+    {
+        "operator": "surface.primitive_nurbs_surface_circle_add",
+        "source": null
+    },
+    {
+        "operator": "surface.primitive_nurbs_surface_curve_add",
+        "source": null
+    },
+    {
+        "operator": "surface.primitive_nurbs_surface_cylinder_add",
+        "source": null
+    },
+    {
+        "operator": "surface.primitive_nurbs_surface_sphere_add",
+        "source": null
+    },
+    {
+        "operator": "surface.primitive_nurbs_surface_surface_add",
+        "source": null
+    },
+    {
+        "operator": "surface.primitive_nurbs_surface_torus_add",
+        "source": null
+    },
+    {
+        "operator": "text.autocomplete",
+        "source": null
+    },
+    {
+        "operator": "text.comment_toggle",
+        "source": null
+    },
+    {
+        "operator": "text.convert_whitespace",
+        "source": null
+    },
+    {
+        "operator": "text.copy",
+        "source": null
+    },
+    {
+        "operator": "text.cursor_set",
+        "source": null
+    },
+    {
+        "operator": "text.cut",
+        "source": null
+    },
+    {
+        "operator": "text.delete",
+        "source": null
+    },
+    {
+        "operator": "text.duplicate_line",
+        "source": null
+    },
+    {
+        "operator": "text.find",
+        "source": null
+    },
+    {
+        "operator": "text.find_set_selected",
+        "source": null
+    },
+    {
+        "operator": "text.indent",
+        "source": null
+    },
+    {
+        "operator": "text.indent_or_autocomplete",
+        "source": null
+    },
+    {
+        "operator": "text.insert",
+        "source": null
+    },
+    {
+        "operator": "text.jump",
+        "source": null
+    },
+    {
+        "operator": "text.line_break",
+        "source": null
+    },
+    {
+        "operator": "text.line_number",
+        "source": null
+    },
+    {
+        "operator": "text.make_internal",
+        "source": null
+    },
+    {
+        "operator": "text.move",
+        "source": null
+    },
+    {
+        "operator": "text.move_lines",
+        "source": null
+    },
+    {
+        "operator": "text.move_select",
+        "source": null
+    },
+    {
+        "operator": "text.new",
+        "source": null
+    },
+    {
+        "operator": "text.open",
+        "source": null
+    },
+    {
+        "operator": "text.overwrite_toggle",
+        "source": null
+    },
+    {
+        "operator": "text.paste",
+        "source": null
+    },
+    {
+        "operator": "text.refresh_pyconstraints",
+        "source": null
+    },
+    {
+        "operator": "text.reload",
+        "source": null
+    },
+    {
+        "operator": "text.replace",
+        "source": null
+    },
+    {
+        "operator": "text.replace_set_selected",
+        "source": null
+    },
+    {
+        "operator": "text.resolve_conflict",
+        "source": null
+    },
+    {
+        "operator": "text.run_script",
+        "source": null
+    },
+    {
+        "operator": "text.save",
+        "source": null
+    },
+    {
+        "operator": "text.save_as",
+        "source": null
+    },
+    {
+        "operator": "text.scroll",
+        "source": null
+    },
+    {
+        "operator": "text.scroll_bar",
+        "source": null
+    },
+    {
+        "operator": "text.select_all",
+        "source": null
+    },
+    {
+        "operator": "text.select_line",
+        "source": null
+    },
+    {
+        "operator": "text.select_word",
+        "source": null
+    },
+    {
+        "operator": "text.selection_set",
+        "source": null
+    },
+    {
+        "operator": "text.start_find",
+        "source": null
+    },
+    {
+        "operator": "text.to_3d_object",
+        "source": null
+    },
+    {
+        "operator": "text.unindent",
+        "source": null
+    },
+    {
+        "operator": "text.unlink",
+        "source": null
+    },
+    {
+        "operator": "texture.new",
+        "source": null
+    },
+    {
+        "operator": "texture.slot_copy",
+        "source": null
+    },
+    {
+        "operator": "texture.slot_move",
+        "source": null
+    },
+    {
+        "operator": "texture.slot_paste",
+        "source": null
+    },
+    {
+        "operator": "transform.bbone_resize",
+        "source": null
+    },
+    {
+        "operator": "transform.bend",
+        "source": null
+    },
+    {
+        "operator": "transform.create_orientation",
+        "source": null
+    },
+    {
+        "operator": "transform.delete_orientation",
+        "source": null
+    },
+    {
+        "operator": "transform.edge_bevelweight",
+        "source": null
+    },
+    {
+        "operator": "transform.edge_crease",
+        "source": null
+    },
+    {
+        "operator": "transform.edge_slide",
+        "source": null
+    },
+    {
+        "operator": "transform.from_gizmo",
+        "source": null
+    },
+    {
+        "operator": "transform.mirror",
+        "source": null
+    },
+    {
+        "operator": "transform.push_pull",
+        "source": null
+    },
+    {
+        "operator": "transform.resize",
+        "source": null
+    },
+    {
+        "operator": "transform.rotate",
+        "source": null
+    },
+    {
+        "operator": "transform.rotate_normal",
+        "source": null
+    },
+    {
+        "operator": "transform.select_orientation",
+        "source": null
+    },
+    {
+        "operator": "transform.seq_slide",
+        "source": null
+    },
+    {
+        "operator": "transform.shear",
+        "source": null
+    },
+    {
+        "operator": "transform.shrink_fatten",
+        "source": null
+    },
+    {
+        "operator": "transform.skin_resize",
+        "source": null
+    },
+    {
+        "operator": "transform.tilt",
+        "source": null
+    },
+    {
+        "operator": "transform.tosphere",
+        "source": null
+    },
+    {
+        "operator": "transform.trackball",
+        "source": null
+    },
+    {
+        "operator": "transform.transform",
+        "source": null
+    },
+    {
+        "operator": "transform.translate",
+        "source": null
+    },
+    {
+        "operator": "transform.vert_slide",
+        "source": null
+    },
+    {
+        "operator": "transform.vertex_random",
+        "source": null
+    },
+    {
+        "operator": "transform.vertex_warp",
+        "source": null
+    },
+    {
+        "operator": "ui.assign_default_button",
+        "source": null
+    },
+    {
+        "operator": "ui.button_execute",
+        "source": null
+    },
+    {
+        "operator": "ui.button_string_clear",
+        "source": null
+    },
+    {
+        "operator": "ui.copy_as_driver_button",
+        "source": null
+    },
+    {
+        "operator": "ui.copy_data_path_button",
+        "source": null
+    },
+    {
+        "operator": "ui.copy_python_command_button",
+        "source": null
+    },
+    {
+        "operator": "ui.copy_to_selected_button",
+        "source": null
+    },
+    {
+        "operator": "ui.drop_color",
+        "source": null
+    },
+    {
+        "operator": "ui.editsource",
+        "source": null
+    },
+    {
+        "operator": "ui.edittranslation_init",
+        "source": null
+    },
+    {
+        "operator": "ui.eyedropper_color",
+        "source": null
+    },
+    {
+        "operator": "ui.eyedropper_colorramp",
+        "source": null
+    },
+    {
+        "operator": "ui.eyedropper_colorramp_point",
+        "source": null
+    },
+    {
+        "operator": "ui.eyedropper_depth",
+        "source": null
+    },
+    {
+        "operator": "ui.eyedropper_driver",
+        "source": null
+    },
+    {
+        "operator": "ui.eyedropper_gpencil_color",
+        "source": null
+    },
+    {
+        "operator": "ui.eyedropper_id",
+        "source": null
+    },
+    {
+        "operator": "ui.jump_to_target_button",
+        "source": null
+    },
+    {
+        "operator": "ui.override_remove_button",
+        "source": null
+    },
+    {
+        "operator": "ui.override_type_set_button",
+        "source": null
+    },
+    {
+        "operator": "ui.reloadtranslation",
+        "source": null
+    },
+    {
+        "operator": "ui.reset_default_button",
+        "source": null
+    },
+    {
+        "operator": "ui.unset_property_button",
+        "source": null
+    },
+    {
+        "operator": "uv.align",
+        "source": null
+    },
+    {
+        "operator": "uv.average_islands_scale",
+        "source": null
+    },
+    {
+        "operator": "uv.cube_project",
+        "source": null
+    },
+    {
+        "operator": "uv.cursor_set",
+        "source": null
+    },
+    {
+        "operator": "uv.cylinder_project",
+        "source": null
+    },
+    {
+        "operator": "uv.follow_active_quads",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\uvcalc_follow_active.py"
+    },
+    {
+        "operator": "uv.hide",
+        "source": null
+    },
+    {
+        "operator": "uv.lightmap_pack",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\uvcalc_lightmap.py"
+    },
+    {
+        "operator": "uv.mark_seam",
+        "source": null
+    },
+    {
+        "operator": "uv.minimize_stretch",
+        "source": null
+    },
+    {
+        "operator": "uv.pack_islands",
+        "source": null
+    },
+    {
+        "operator": "uv.pin",
+        "source": null
+    },
+    {
+        "operator": "uv.project_from_view",
+        "source": null
+    },
+    {
+        "operator": "uv.remove_doubles",
+        "source": null
+    },
+    {
+        "operator": "uv.reset",
+        "source": null
+    },
+    {
+        "operator": "uv.reveal",
+        "source": null
+    },
+    {
+        "operator": "uv.rip",
+        "source": null
+    },
+    {
+        "operator": "uv.rip_move",
+        "source": null
+    },
+    {
+        "operator": "uv.seams_from_islands",
+        "source": null
+    },
+    {
+        "operator": "uv.select",
+        "source": null
+    },
+    {
+        "operator": "uv.select_all",
+        "source": null
+    },
+    {
+        "operator": "uv.select_box",
+        "source": null
+    },
+    {
+        "operator": "uv.select_circle",
+        "source": null
+    },
+    {
+        "operator": "uv.select_edge_ring",
+        "source": null
+    },
+    {
+        "operator": "uv.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "uv.select_less",
+        "source": null
+    },
+    {
+        "operator": "uv.select_linked",
+        "source": null
+    },
+    {
+        "operator": "uv.select_linked_pick",
+        "source": null
+    },
+    {
+        "operator": "uv.select_loop",
+        "source": null
+    },
+    {
+        "operator": "uv.select_more",
+        "source": null
+    },
+    {
+        "operator": "uv.select_overlap",
+        "source": null
+    },
+    {
+        "operator": "uv.select_pinned",
+        "source": null
+    },
+    {
+        "operator": "uv.select_split",
+        "source": null
+    },
+    {
+        "operator": "uv.shortest_path_pick",
+        "source": null
+    },
+    {
+        "operator": "uv.shortest_path_select",
+        "source": null
+    },
+    {
+        "operator": "uv.smart_project",
+        "source": null
+    },
+    {
+        "operator": "uv.snap_cursor",
+        "source": null
+    },
+    {
+        "operator": "uv.snap_selected",
+        "source": null
+    },
+    {
+        "operator": "uv.sphere_project",
+        "source": null
+    },
+    {
+        "operator": "uv.stitch",
+        "source": null
+    },
+    {
+        "operator": "uv.unwrap",
+        "source": null
+    },
+    {
+        "operator": "uv.weld",
+        "source": null
+    },
+    {
+        "operator": "view2d.edge_pan",
+        "source": null
+    },
+    {
+        "operator": "view2d.ndof",
+        "source": null
+    },
+    {
+        "operator": "view2d.pan",
+        "source": null
+    },
+    {
+        "operator": "view2d.reset",
+        "source": null
+    },
+    {
+        "operator": "view2d.scroll_down",
+        "source": null
+    },
+    {
+        "operator": "view2d.scroll_left",
+        "source": null
+    },
+    {
+        "operator": "view2d.scroll_right",
+        "source": null
+    },
+    {
+        "operator": "view2d.scroll_up",
+        "source": null
+    },
+    {
+        "operator": "view2d.scroller_activate",
+        "source": null
+    },
+    {
+        "operator": "view2d.smoothview",
+        "source": null
+    },
+    {
+        "operator": "view2d.zoom",
+        "source": null
+    },
+    {
+        "operator": "view2d.zoom_border",
+        "source": null
+    },
+    {
+        "operator": "view2d.zoom_in",
+        "source": null
+    },
+    {
+        "operator": "view2d.zoom_out",
+        "source": null
+    },
+    {
+        "operator": "view3d.background_image_add",
+        "source": null
+    },
+    {
+        "operator": "view3d.background_image_remove",
+        "source": null
+    },
+    {
+        "operator": "view3d.bone_select_menu",
+        "source": null
+    },
+    {
+        "operator": "view3d.camera_to_view",
+        "source": null
+    },
+    {
+        "operator": "view3d.camera_to_view_selected",
+        "source": null
+    },
+    {
+        "operator": "view3d.clear_render_border",
+        "source": null
+    },
+    {
+        "operator": "view3d.clip_border",
+        "source": null
+    },
+    {
+        "operator": "view3d.copybuffer",
+        "source": null
+    },
+    {
+        "operator": "view3d.cursor3d",
+        "source": null
+    },
+    {
+        "operator": "view3d.dolly",
+        "source": null
+    },
+    {
+        "operator": "view3d.edit_mesh_extrude_individual_move",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\view3d.py"
+    },
+    {
+        "operator": "view3d.edit_mesh_extrude_manifold_normal",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\view3d.py"
+    },
+    {
+        "operator": "view3d.edit_mesh_extrude_move_normal",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\view3d.py"
+    },
+    {
+        "operator": "view3d.edit_mesh_extrude_move_shrink_fatten",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\view3d.py"
+    },
+    {
+        "operator": "view3d.fly",
+        "source": null
+    },
+    {
+        "operator": "view3d.interactive_add",
+        "source": null
+    },
+    {
+        "operator": "view3d.localview",
+        "source": null
+    },
+    {
+        "operator": "view3d.localview_remove_from",
+        "source": null
+    },
+    {
+        "operator": "view3d.move",
+        "source": null
+    },
+    {
+        "operator": "view3d.navigate",
+        "source": null
+    },
+    {
+        "operator": "view3d.ndof_all",
+        "source": null
+    },
+    {
+        "operator": "view3d.ndof_orbit",
+        "source": null
+    },
+    {
+        "operator": "view3d.ndof_orbit_zoom",
+        "source": null
+    },
+    {
+        "operator": "view3d.ndof_pan",
+        "source": null
+    },
+    {
+        "operator": "view3d.object_as_camera",
+        "source": null
+    },
+    {
+        "operator": "view3d.object_mode_pie_or_toggle",
+        "source": null
+    },
+    {
+        "operator": "view3d.pastebuffer",
+        "source": null
+    },
+    {
+        "operator": "view3d.render_border",
+        "source": null
+    },
+    {
+        "operator": "view3d.rotate",
+        "source": null
+    },
+    {
+        "operator": "view3d.ruler_add",
+        "source": null
+    },
+    {
+        "operator": "view3d.ruler_remove",
+        "source": null
+    },
+    {
+        "operator": "view3d.select",
+        "source": null
+    },
+    {
+        "operator": "view3d.select_box",
+        "source": null
+    },
+    {
+        "operator": "view3d.select_circle",
+        "source": null
+    },
+    {
+        "operator": "view3d.select_lasso",
+        "source": null
+    },
+    {
+        "operator": "view3d.select_menu",
+        "source": null
+    },
+    {
+        "operator": "view3d.smoothview",
+        "source": null
+    },
+    {
+        "operator": "view3d.snap_cursor_to_active",
+        "source": null
+    },
+    {
+        "operator": "view3d.snap_cursor_to_center",
+        "source": null
+    },
+    {
+        "operator": "view3d.snap_cursor_to_grid",
+        "source": null
+    },
+    {
+        "operator": "view3d.snap_cursor_to_selected",
+        "source": null
+    },
+    {
+        "operator": "view3d.snap_selected_to_active",
+        "source": null
+    },
+    {
+        "operator": "view3d.snap_selected_to_cursor",
+        "source": null
+    },
+    {
+        "operator": "view3d.snap_selected_to_grid",
+        "source": null
+    },
+    {
+        "operator": "view3d.toggle_matcap_flip",
+        "source": null
+    },
+    {
+        "operator": "view3d.toggle_shading",
+        "source": null
+    },
+    {
+        "operator": "view3d.toggle_xray",
+        "source": null
+    },
+    {
+        "operator": "view3d.transform_gizmo_set",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\view3d.py"
+    },
+    {
+        "operator": "view3d.view_all",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_axis",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_camera",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_center_camera",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_center_cursor",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_center_lock",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_center_pick",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_lock_clear",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_lock_to_active",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_orbit",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_pan",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_persportho",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_roll",
+        "source": null
+    },
+    {
+        "operator": "view3d.view_selected",
+        "source": null
+    },
+    {
+        "operator": "view3d.walk",
+        "source": null
+    },
+    {
+        "operator": "view3d.zoom",
+        "source": null
+    },
+    {
+        "operator": "view3d.zoom_border",
+        "source": null
+    },
+    {
+        "operator": "view3d.zoom_camera_1_to_1",
+        "source": null
+    },
+    {
+        "operator": "wm.alembic_export",
+        "source": null
+    },
+    {
+        "operator": "wm.alembic_import",
+        "source": null
+    },
+    {
+        "operator": "wm.append",
+        "source": null
+    },
+    {
+        "operator": "wm.batch_rename",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.blend_strings_utf8_validate",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\file.py"
+    },
+    {
+        "operator": "wm.call_menu",
+        "source": null
+    },
+    {
+        "operator": "wm.call_menu_pie",
+        "source": null
+    },
+    {
+        "operator": "wm.call_panel",
+        "source": null
+    },
+    {
+        "operator": "wm.collada_export",
+        "source": null
+    },
+    {
+        "operator": "wm.collada_import",
+        "source": null
+    },
+    {
+        "operator": "wm.console_toggle",
+        "source": null
+    },
+    {
+        "operator": "wm.context_collection_boolean_set",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_cycle_array",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_cycle_enum",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_cycle_int",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_menu_enum",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_modal_mouse",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_pie_enum",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_scale_float",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_scale_int",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_set_boolean",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_set_enum",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_set_float",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_set_id",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_set_int",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_set_string",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_set_value",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_toggle",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.context_toggle_enum",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.debug_menu",
+        "source": null
+    },
+    {
+        "operator": "wm.doc_view",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.doc_view_manual",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.doc_view_manual_ui_context",
+        "source": null
+    },
+    {
+        "operator": "wm.drop_blend_file",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.gpencil_export_pdf",
+        "source": null
+    },
+    {
+        "operator": "wm.gpencil_export_svg",
+        "source": null
+    },
+    {
+        "operator": "wm.gpencil_import_svg",
+        "source": null
+    },
+    {
+        "operator": "wm.interface_theme_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "wm.keyconfig_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "wm.lib_reload",
+        "source": null
+    },
+    {
+        "operator": "wm.lib_relocate",
+        "source": null
+    },
+    {
+        "operator": "wm.link",
+        "source": null
+    },
+    {
+        "operator": "wm.memory_statistics",
+        "source": null
+    },
+    {
+        "operator": "wm.open_mainfile",
+        "source": null
+    },
+    {
+        "operator": "wm.operator_cheat_sheet",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.operator_defaults",
+        "source": null
+    },
+    {
+        "operator": "wm.operator_pie_enum",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.operator_preset_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\presets.py"
+    },
+    {
+        "operator": "wm.owner_disable",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.owner_enable",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.path_open",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.previews_batch_clear",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\file.py"
+    },
+    {
+        "operator": "wm.previews_batch_generate",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\file.py"
+    },
+    {
+        "operator": "wm.previews_clear",
+        "source": null
+    },
+    {
+        "operator": "wm.previews_ensure",
+        "source": null
+    },
+    {
+        "operator": "wm.properties_add",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.properties_context_change",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.properties_edit",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.properties_remove",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.quit_blender",
+        "source": null
+    },
+    {
+        "operator": "wm.radial_control",
+        "source": null
+    },
+    {
+        "operator": "wm.read_factory_settings",
+        "source": null
+    },
+    {
+        "operator": "wm.read_factory_userpref",
+        "source": null
+    },
+    {
+        "operator": "wm.read_history",
+        "source": null
+    },
+    {
+        "operator": "wm.read_homefile",
+        "source": null
+    },
+    {
+        "operator": "wm.read_userpref",
+        "source": null
+    },
+    {
+        "operator": "wm.recover_auto_save",
+        "source": null
+    },
+    {
+        "operator": "wm.recover_last_session",
+        "source": null
+    },
+    {
+        "operator": "wm.redraw_timer",
+        "source": null
+    },
+    {
+        "operator": "wm.revert_mainfile",
+        "source": null
+    },
+    {
+        "operator": "wm.save_as_mainfile",
+        "source": null
+    },
+    {
+        "operator": "wm.save_homefile",
+        "source": null
+    },
+    {
+        "operator": "wm.save_mainfile",
+        "source": null
+    },
+    {
+        "operator": "wm.save_userpref",
+        "source": null
+    },
+    {
+        "operator": "wm.search_menu",
+        "source": null
+    },
+    {
+        "operator": "wm.search_operator",
+        "source": null
+    },
+    {
+        "operator": "wm.set_stereo_3d",
+        "source": null
+    },
+    {
+        "operator": "wm.splash",
+        "source": null
+    },
+    {
+        "operator": "wm.splash_about",
+        "source": null
+    },
+    {
+        "operator": "wm.sysinfo",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.tool_set_by_id",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.tool_set_by_index",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.toolbar",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.toolbar_fallback_pie",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.toolbar_prompt",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.url_open",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.url_open_preset",
+        "source": "C:\\Program Files\\Blender Foundation\\Blender 2.93\\2.93\\scripts\\startup\\bl_operators\\wm.py"
+    },
+    {
+        "operator": "wm.usd_export",
+        "source": null
+    },
+    {
+        "operator": "wm.window_close",
+        "source": null
+    },
+    {
+        "operator": "wm.window_fullscreen_toggle",
+        "source": null
+    },
+    {
+        "operator": "wm.window_new",
+        "source": null
+    },
+    {
+        "operator": "wm.window_new_main",
+        "source": null
+    },
+    {
+        "operator": "wm.xr_session_toggle",
+        "source": null
+    },
+    {
+        "operator": "workspace.add",
+        "source": null
+    },
+    {
+        "operator": "workspace.append_activate",
+        "source": null
+    },
+    {
+        "operator": "workspace.delete",
+        "source": null
+    },
+    {
+        "operator": "workspace.duplicate",
+        "source": null
+    },
+    {
+        "operator": "workspace.reorder_to_back",
+        "source": null
+    },
+    {
+        "operator": "workspace.reorder_to_front",
+        "source": null
+    },
+    {
+        "operator": "world.new",
+        "source": null
+    }
+]
